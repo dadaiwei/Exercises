@@ -1,0 +1,42 @@
+*
+{
+    padding:0px;
+    margin:0px;
+}
+body
+{
+    position: static;
+}
+.square
+{
+    width:400px;
+    height:200px;
+    background-color: #ccc;
+    position: absolute;
+    left:50%;
+    top:50%;
+    margin-left: -200px;
+    margin-top: -100px;
+    overflow: hidden;
+}
+
+.square .circle1
+{
+    width:100px;
+    height:100px;
+    background-color: #fc0;
+    border-radius: 0 0 50px 0;
+    position: absolute;
+    left:-50px;
+    top:-50px;
+}
+.square .circle2
+{
+    width:100px;
+    height:100px;
+    background-color: #fc0;
+    border-radius: 50px 0 0 0;
+    position: absolute;
+    right:-50px;
+    bottom:-50px;
+}

@@ -1,0 +1,329 @@
+*
+{
+    padding:0px;
+    margin: 0px;
+}
+body
+{
+    background-color: lightgray;
+    font-family: SimHei, Arial,sans-serif;
+    color:#000000;
+    font-weight:500;
+}
+
+header
+{
+    position:relative;
+    height:60px;
+    min-width: 1200px;
+    background-color: RGB(51,51,51);
+}
+header .logo
+{
+    margin-left:40px;
+    padding-top: 5px;
+    float:left;
+}
+header nav
+{
+    float:right;
+    margin-top:20px;
+    margin-right: 20px;
+}
+header nav ul li
+{
+    float:left;
+    list-style-type: disc;
+    margin:0 12px;
+}
+header nav ul li a
+{
+    font-size:13px;
+    color:#fff;
+    text-decoration: none;
+}
+header nav ul li:last-child a
+{
+    color:gray;
+}
+
+.wrapper
+{
+    position:relative;
+}
+.wrapper .article
+{
+    width:1240px;
+    height:750px;
+    background-color:#FFFFFF;
+    margin:25px auto;
+    position:relative;
+}
+.wrapper .article article
+{
+    padding:35px 20px;
+}
+.wrapper .article article h3,.wrapper .article article h4
+{
+    margin-top: 15px;
+    color:dimgray;
+}
+.wrapper .article article h4
+{
+    font-size: 13px;
+   font-weight: lighter;
+}
+.wrapper .article article p
+{
+    line-height: 28px;
+    text-indent: 36px;
+    margin-top: 10px;
+}
+.wrapper .article img
+{
+    margin-top:12px;
+}
+.wrapper .article ul
+{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.wrapper .article li
+{
+    list-style-type: none;
+    margin:10px 0;
+}
+.wrapper .article1
+{
+    height:720px;
+}
+.wrapper .images
+{
+    width:1240px;
+    height:1430px;
+    background-color:#ffffff;
+    margin:25px auto;
+    position:relative;
+}
+.wrapper .images h2
+{
+   padding:38px 20px 23px;
+}
+.wrapper .images .image
+{
+    width:125px;
+    height:125px;
+    border: 1px solid lightgray;
+    text-align: center;
+    font-size:13px;
+    margin-left: 63px;
+    margin-bottom: 20px;
+}
+.wrapper .images .image figure figcaption
+{
+    margin:8px auto;
+}
+.wrapper .images .image figure img
+{
+    margin:2px auto;
+}
+.wrapper .article2
+{
+    width:1200px;
+    height:370px;
+    margin:25px auto;
+    background-color: #ffffff;
+    position:relative;
+    padding:35px 20px;
+}
+
+.wrapper .article2 h3,.wrapper .article2 h4
+{
+   margin-top:12px;
+    color:dimgray;
+}
+.wrapper .article2 h4
+{
+    font-size: 13px;
+    font-weight: lighter;
+}
+.wrapper .article2 ol
+{
+    margin-left: 57px;
+    margin-top:20px;
+    font-size: 17px;
+}
+.wrapper .article2 ol li
+{
+    margin:8px 0;
+}
+.wrapper .article2 .table
+{
+    margin-top: 20px;
+}
+.wrapper .article2 .table caption
+{
+ font-size: 17px;
+}
+.wrapper .article2 .table table
+{
+    border:1px solid darkgray;
+    border-collapse: collapse;
+    width:1200px;
+    height:150px;
+    text-align: left;
+    margin-top: 5px;
+}
+.wrapper .article2 .table table tr
+{
+    height:25px;
+}
+.wrapper .article2 .table table th,.wrapper .article2 .table table td
+{
+    font-size: 15px;
+    padding-left: 8px;
+}
+.wrapper .article2 .table table thead tr
+{
+    background-color:black;
+    color:#ffffff;
+}
+.wrapper .article2 .table table tfoot tr
+{
+    font-weight: bold;
+    background-color:lightgray;
+}
+.wrapper .article2 .table table tfoot tr span
+{
+   margin-left: 460px;
+}
+.wrapper .aside
+{
+    width:1217px;
+    height:500px;
+    background-color: #FFFFFF;
+    margin:25px auto;
+    padding-top:25px;
+    padding-left: 23px;
+}
+.wrapper .aside .title
+{
+    height:32px;
+    width:100%;
+    border-left:3px solid lightgray;
+    padding-top: 8px;
+}
+.wrapper .aside .title h3
+{
+    margin:auto 10px;
+}
+.wrapper .aside .form .form1
+{
+    margin-top:10px;
+}
+
+.wrapper .aside .form  form .form1 .form11
+{
+    height:365px;
+    width:400px;
+    float:left;
+}
+.wrapper .aside .form  form .form1 .form11 label
+{
+    display: block;
+    line-height: 32px;
+    text-align: right;
+}
+.wrapper .aside .form  form .form1 .form11 label:nth-child(2)
+{
+    margin-top: 45px;
+}
+.wrapper .aside .form  form .form1 .form11 label:nth-child(3)
+{
+    margin-top: 3px;
+}
+.wrapper .aside .form  form .form1 .form11 label:nth-child(4)
+{
+    margin-top: 36px;
+}
+.wrapper .aside .form  form .form1 .form12
+{
+    float:left;
+    padding-left: 10px;
+}
+.wrapper .aside .form  form .form1 .form12 input,select,textarea
+{
+    display: block;
+    margin:5px 0;
+}
+.wrapper .aside .form  form .form1 .form12 input[type="text"]
+{
+   width:130px;
+    height:20px;
+}
+.wrapper .aside .form  form .form1 .form12 input[type="password"]
+{
+    width:130px;
+    height:20px;
+    margin-top:12px;
+}
+.wrapper .aside .form  form .form1 .form12 #password1
+{
+    margin-top: 25px;
+}
+.wrapper .aside .form  form .form1 .form12 p
+{
+    color:gray;
+    font-size: 14px;
+    margin-top:8px;
+}
+.wrapper .aside .form  form .form1 .form12 input[type="radio"]
+{
+    display: inline-block;
+    margin-top: 26px;
+}
+.wrapper .aside .form  form .form1 .form12 select
+{
+    margin-top: 12px;
+}
+.wrapper .aside .form  form .form1 .form12 input[type="checkbox"]
+{
+    display: inline-block;
+    margin-top: 11px;
+}
+.wrapper .aside .form  form .form1 .form12 textarea
+{
+    width:750px;
+    height:100px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.wrapper .aside .form  form .form1 .form12 textarea span
+{
+    text-align: left;
+}
+.wrapper .aside .form  form  button
+{
+    width:1175px;
+    height:40px;
+    background-color: blue;
+    border-radius: 10px;
+    color:#ffffff;
+    font-size:16px;
+    font-weight: bold;
+    margin:6px auto;
+}
+
+footer .foot
+{
+    height:52px;
+    background-color: #000000;
+    width:100%;
+    text-align: center;
+    padding-top: 18px;
+}
+footer .foot p
+{
+    color:#FFFFFF;
+    font-size: 14px;
+}
