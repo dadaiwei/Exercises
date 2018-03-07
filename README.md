@@ -5,7 +5,9 @@
 >**<font color=blue size=5>喜欢的小伙伴请点颗star，谢谢</font>**
 
 
-##task1 &nbsp;&nbsp;&nbsp;&nbsp;[http://dadaiwei.github.io/Exercises/task1/](http://dadaiwei.github.io/Exercises/task1/)<br>
+task1 &nbsp;&nbsp;&nbsp;&nbsp;[http://dadaiwei.github.io/Exercises/task1/](http://dadaiwei.github.io/Exercises/task1/)
+--------------------------------------------------------
+<br>
 <font size=4>task1包含的html基本元素有**header、article、asider、section、figure、footer、h1、h2、ul、li、p、img、br**元素，接下来将逐一讲解各个元素用法及含义。
 其中header、acticle、section、asider、footer属于html5，它们一起构成新的网页结构。  
 <u>HTML5网页结构</u>
@@ -31,17 +33,21 @@
 </font>
 
 
-##task2
+task2
+----------------------
 
 
-##task3
+task3
+------------------
 
-##task4
+task4
+------------------
 
-##task4
+task5
+------------------
 
-##task5
+task6
+------------------
 
-##task6
-
-##task7
+task7
+------------------
