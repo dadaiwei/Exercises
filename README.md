@@ -1,10 +1,10 @@
-#<font color=green size=6>前端小练习</font>
+#前端小练习
 ><font size=5>**前端起步的7个task,帮助你从html、css起步，接下来将分别介绍这7个task。**</font>
 >
 >**<font color=blue size=5>喜欢的小伙伴请点颗star，谢谢</font>**
 
 
-##<font color=Crimson size=5>task1</font>
+##task1  [链接]（http://dadaiwei.github.io/Exercises/task1/）
 <font size=4>task1包含的html基本元素有**header、article、asider、section、figure、footer、h1、h2、ul、li、p、img、br**元素，接下来将逐一讲解各个元素用法及含义。
 其中header、acticle、section、asider、footer属于html5，它们一起构成新的网页结构。  
 <u>HTML5网页结构</u>
@@ -30,16 +30,17 @@
 </font>
 
 
+##task2
 
-##<font color=Crimson size=5>task2</font>
 
+##task3
 
-##<font color=Crimson size=5>task3</font>
+##task4
 
-##<font color=Crimson size=5>task4</font>
+##task4
 
-##<font color=Crimson size=5>task5</font>
+##task5
 
-##<font color=Crimson size=5>task6</font>
+##task6
 
-##<font color=Crimson size=5>task7</font>
+##task7
