@@ -221,12 +221,83 @@ css
 ![](https://i.imgur.com/o99ZIAJ.jpg)
 task4  &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task4/)
 ------------
+使用border-radius在矩形中实现两个四分之一圆  
+html结构  
+
+	<div class="square">
+        <div class="circle1">
+
+        </div>
+        <div class="rectange">
+
+        </div>
+        <div class="circle2">
+
+        </div>
+    </div>
+css
+    .square
+	{
+	    width:400px;
+	    height:200px;
+	    background-color: #ccc;
+	    position: absolute;
+	    left:50%;
+	    top:50%;
+	    margin-left: -200px;
+	    margin-top: -100px;
+	    overflow: hidden;
+	}
+	
+	.square .circle1
+	{
+	    width:100px;
+	    height:100px;
+	    background-color: #fc0;
+	    border-radius: 0 0 50px 0;
+	    position: absolute;
+	    left:-50px;
+	    top:-50px;
+	}
+	.square .circle2
+	{
+	    width:100px;
+	    height:100px;
+	    background-color: #fc0;
+	    border-radius: 50px 0 0 0;
+	    position: absolute;
+	    right:-50px;
+	    bottom:-50px;
+	}
+![](https://i.imgur.com/4z2Qi7r.jpg)
 
 task5  &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task5/)
 -------------
+**两栏布局**
+![](https://i.imgur.com/mUiopxf.jpg)
 
 task6  &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task6/)
 ----------
+**报纸页，模拟报纸的布局**
+第一部分
+![](https://i.imgur.com/5KH4Mfn.jpg)
+第二部分
+![](https://i.imgur.com/jMuOrFL.jpg)
 
 task7 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task7/)
 ----------
+**新世界  
+第一部分**
+![](https://i.imgur.com/5wGf3JX.jpg)
+
+**第二部分**
+![](https://i.imgur.com/06Usuqq.jpg)
+
+**第三部分**
+![](https://i.imgur.com/pSdaB95.jpg)
+  
+**第四部分**
+![](https://i.imgur.com/yIkQ3xM.jpg)
+
+**第五部分**
+![](https://i.imgur.com/uAhmdLk.jpg)
