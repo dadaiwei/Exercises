@@ -43,7 +43,7 @@ figcaption——定义<figure> 元素的标题
        </figcaption>
        <img src="images/2.jpg" alt="图片">
    </figure>
-![](https://i.imgur.com/pkNewK2.jpg)  
+![](https://i.imgur.com/5Yb7pnb.jpg)   
 有序列表
 
  	<ol type="1">
