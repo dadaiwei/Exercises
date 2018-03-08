@@ -35,7 +35,7 @@ task1 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task1
 task2 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task2/)
 -----------
 figure——规定独立的流内容（图像、图表、照片、代码等等）  
-figcaption——定义figure 元素的标题  
+figcaption——定义figure元素的标题  
 
 	<figure>
        <figcaption>
@@ -51,7 +51,7 @@ figcaption——定义figure 元素的标题
                <li>排名2</li>
                <li>排名3</li>
  	</ol>
-
+![](https://i.imgur.com/xmu9sKt.jpg)
 
 task3 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task3/)
 ------------
