@@ -164,7 +164,8 @@ task3 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task3
 Margin(外边距) - 清除边框外的区域，外边距是透明的  
 Border(边框) - 围绕在内边距和内容外的边框  
 Padding(内边距) - 清除内容周围的区域，内边距是透明的  
-Content(内容) - 盒子的内容，显示文本和图像 
+Content(内容) - 盒子的内容，显示文本和图像   
+
 ![](https://i.imgur.com/yGRtG1L.gif)   
 **三栏布局**  
  html结构
