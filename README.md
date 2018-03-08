@@ -11,6 +11,7 @@ task1 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task1
 其中header、acticle、section、asider、footer属于html5，它们一起构成新的网页结构。  
 <u>HTML5网页结构</u>
 ![](https://i.imgur.com/wrA6hh9.png)  
+  
 代码结构如下：
 
 	<!DOCTYPE html>          
