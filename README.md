@@ -42,16 +42,72 @@ figcaption——定义figure元素的标题
            好看的图片
        </figcaption>
        <img src="images/2.jpg" alt="图片">
-   </figure>
-![](https://i.imgur.com/5Yb7pnb.jpg) <br>  
-有序列表
+    </figure>
+![](https://i.imgur.com/U4p4e6P.jpg)   
+ol-有序列表
 
  	<ol type="1">
                <li>排名1</li>
                <li>排名2</li>
                <li>排名3</li>
  	</ol>
-![](https://i.imgur.com/xmu9sKt.jpg)
+![](https://i.imgur.com/xmu9sKt.jpg)  
+ul-无序列表
+
+	 <ul>
+           <li>
+               列表项目一
+           </li>
+           <li>
+               列表项目二
+           </li>
+           <li>
+               列表项目三
+           </li>
+      </ul>
+![](https://i.imgur.com/UJBlB1U.jpg)  
+#### table—表格 ####  
+thead—表格 &nbsp;&nbsp; tbody-表格主体&nbsp;&nbsp;tfooter-表格尾部 &nbsp;&nbsp; tr-表格行 &nbsp;&nbsp; th-表头单元格 &nbsp;&nbsp; td-表格主体单元格  
+
+	 <table border="1">
+                   <thead>
+                   <tr>
+                       <th>表头</th>
+                       <th>表头</th>
+                       <th>表头</th>
+                   </tr>
+                   </thead>
+                   <tbody>
+                   <tr>
+                       <td>表内容单元格</td>
+                       <td>表内容单元格</td>
+                       <td><a href="#">操作</a></td>
+                   </tr>
+                   <tr>
+                       <td>表内容单元格</td>
+                       <td>表内容单元格</td>
+                       <td><a href="#">操作</a></td>
+                   </tr>
+                   <tr>
+                       <td>表内容单元格</td>
+                       <td>表内容单元格</td>
+                       <td><a href="#">操作</a></td>
+                   </tr>
+                   <tr>
+                       <td>表内容单元格</td>
+                       <td>表内容单元格</td>
+                       <td><a href="#">操作</a></td>
+                   </tr>
+                   </tbody>
+                   <tfoot>
+                   <tr>
+                       <td colspan="3">总计 <span>1000</span></td>
+                   </tr>
+                   </tfoot>
+       </table>
+![](https://i.imgur.com/qwt1M8G.jpg)
+####  form表单 ####
+
 
 task3 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task3/)
 ------------
