@@ -279,16 +279,16 @@ task5  &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task
 
 task6  &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task6/)
 ----------
-**报纸页，模拟报纸的布局**
-第一部分
+**报纸页，模拟报纸的布局**  
+**第一部分**
 ![](https://i.imgur.com/5KH4Mfn.jpg)
-第二部分
+**第二部分**
 ![](https://i.imgur.com/jMuOrFL.jpg)
 
 task7 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task7/)
 ----------
-**新世界  
-第一部分**
+**新世界**    
+**第一部分**
 ![](https://i.imgur.com/5wGf3JX.jpg)
 
 **第二部分**
