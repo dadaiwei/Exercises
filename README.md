@@ -34,7 +34,23 @@ task1 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task1
 
 task2 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task2/)
 -----------
-主要包含**h1、h2、
+figure——规定独立的流内容（图像、图表、照片、代码等等）  
+figcaption——定义<figure> 元素的标题  
+
+	<figure>
+       <figcaption>
+           好看的图片
+       </figcaption>
+       <img src="images/2.jpg" alt="图片">
+   </figure>
+![](https://i.imgur.com/pkNewK2.jpg)  
+有序列表
+
+ 	<ol type="1">
+               <li>排名1</li>
+               <li>排名2</li>
+               <li>排名3</li>
+ 	</ol>
 
 
 task3 &nbsp;&nbsp;&nbsp;&nbsp;[链接](http://dadaiwei.github.io/Exercises/task3/)
