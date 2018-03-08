@@ -235,7 +235,8 @@ html结构
 
         </div>
     </div>
-css
+css  
+
     .square
 	{
 	    width:400px;
