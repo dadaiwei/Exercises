@@ -1,0 +1,388 @@
+@charset "UTF-8";
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td {
+    margin:0;
+    padding:0;
+}
+body{
+    color:#000;
+    font-size:14px;
+    font-family: 'Microsoft yahei',Verdana, Arial, Helvetica, sans-serif;
+}
+td,th,caption {
+    font-size:14px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-weight:normal; font-size:100%;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style:normal; font-weight:normal;
+}
+a{
+    text-decoration:none;
+}
+img{
+    border:none;
+}
+a img{
+    display: block;
+}
+ol,ul,li {
+    list-style:none;
+}
+li{
+    vertical-align:top;
+}
+input, textarea, select, button {
+    font:14px 'Microsoft yahei',Verdana,Helvetica,Arial,sans-serif; }
+table {
+    border-collapse:collapse;
+}
+.clearfix:after {
+    content: "";
+    display: block;
+    height:0;
+    clear:both;
+    visibility: hidden;
+}
+/*.clearfix { *zoom:1; }*/
+
+/**************************************************
+=========== min ===============================
+**************************************************/
+.min-w { min-width: 1208px; }
+
+/**************************************************
+=========== font ===============================
+**************************************************/
+/*** font-size***/
+.f-siz12{font-size:12px;}
+.f-siz14{font-size:14px;}
+.f-siz16{font-size:16px;}
+.f-siz18{font-size:18px;}
+.f-siz20{font-size:20px;}
+.f-siz22{font-size:22px;}
+.f-siz24{font-size:24px;}
+.f-siz26{font-size:26px;}
+.f-siz28{font-size:28px;}
+.f-siz30{font-size:30px;}
+.f-wei-nor{font-weight: normal;}
+.f-sty-nor{font-style: normal;}
+/**************************************************
+=========== border ===============================
+**************************************************/
+.bor{border:1px solid #eee;}
+.bor-t{border-top:1px solid #eee;}
+.bor-r{border-right:1px solid #eee;}
+.bor-b{border-bottom:1px solid #eee;}
+.bor-td{border-top:1px solid #ddd;}
+.bor-bd{border-bottom:1px solid #ddd;}
+.bor-le0{border-left:1px solid #e0e0e0;}
+.bor-l{border-left:1px solid #eee;}
+
+/**************************************************
+=========== padding ===============================
+**************************************************/
+.pad-5{padding:5px;}
+.pad-10{padding:10px;}
+.pad-15{padding:15px;}
+.pad-20{padding:20px;}
+.pad-25{padding:25px;}
+
+
+.pad-t5{padding-top:5px;}
+.pad-t10{padding-top:10px;}
+.pad-t15{padding-top:15px;}
+.pad-t20{padding-top:20px;}
+.pad-t25{padding-top:25px;}
+.pad-t30{padding-top:30px;}
+.pad-t35{padding-top:35px;}
+.pad-t5{padding-top:5px;}
+
+.pad-r0{padding-right:0;}
+.pad-r5{padding-right:5px;}
+.pad-r10{padding-right:10px;}
+.pad-r15{padding-right:15px;}
+.pad-r20{padding-right:20px;}
+.pad-r25{padding-right:25px;}
+.pad-r30{padding-right:30px;}
+
+.pad-b5{padding-bottom:5px;}
+.pad-b10{padding-bottom:10px;}
+.pad-b15{padding-bottom:15px;}
+.pad-b20{padding-bottom:20px;}
+.pad-b25{padding-bottom:25px;}
+.pad-b30{padding-bottom:30px;}
+.pad-b35{padding-bottom:35px;}
+
+.pad-l0{padding-left:0;}
+.pad-l5{padding-left:5px;}
+.pad-l10{padding-left:10px;}
+.pad-l15{padding-left:15px;}
+.pad-l20{padding-left:20px;}
+.pad-l25{padding-left:25px;}
+.pad-l30{padding-left:30px;}
+.pad-l80{padding-left:80px;}
+.pad-l120{padding-left:120px;}
+
+
+/**************************************************
+=========== margin ===============================
+**************************************************/
+.mar-5{margin:5px;}
+.mar-10{margin:10px;}
+.mar-15{margin:15px;}
+.mar-20{margin:20px;}
+.mar-25{margin:25px;}
+
+.mar-t5{margin-top:5px;}
+.mar-t10{margin-top:10px;}
+.mar-t15{margin-top:15px;}
+.mar-t20{margin-top:20px;}
+.mar-t25{margin-top:25px;}
+.mar-t30{margin-top:30px;}
+.mar-t40{margin-top:40px;}
+.mar-t5{margin-top:5px;}
+
+.mar-r5{margin-right:5px;}
+.mar-r10{margin-right:10px;}
+.mar-r15{margin-right:15px;}
+.mar-r20{margin-right:20px;}
+.mar-r25{margin-right:25px;}
+.mar-r30{margin-right:30px;}
+
+.mar-b5{margin-bottom:5px;}
+.mar-b10{margin-bottom:10px;}
+.mar-b15{margin-bottom:15px;}
+.mar-b20{margin-bottom:20px;}
+.mar-b25{margin-bottom:25px;}
+.mar-b30{margin-bottom:30px;}
+
+.mar-l5{margin-left:5px;}
+.mar-l10{margin-left:10px;}
+.mar-l15{margin-left:15px;}
+.mar-l20{margin-left:20px;}
+.mar-l25{margin-left:25px;}
+.mar-l30{margin-left:30px;}
+
+/******* float *******/
+.clearfix:after{
+	content: '';
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+	clear: both;
+}
+.fl-l{float:left;} 
+
+.fl-r{float:right;}
+
+/*************************************
+===============position===============
+***********************************/
+.pos-r{position:relative;} .pos-a{position:absolute;} .pos-f{position:fixed;}
+.t{top: 0;} .r{right: 0;} .b{bottom:0;} .l{left: 0;}
+.zindex-9 {z-index:9;}
+.zindex-99 {z-index:99;}
+.zindex-999 {z-index:999;}
+.zindex-9999 {z-index:9999;}
+.zindex-99999 {z-index:99999;}
+.zindex-999999 {z-index:999999;}
+/****************************
+	========= text =========
+*****************************/
+/*** display ***/
+.dis-b {display:block;}
+.dis-ib {display:inline-block;}
+.dis-n {display:none;}
+/*** text-align ***/
+.t-a-l {text-align:left;}
+.t-a-c {text-align:center;}
+.t-a-r {text-align:right;}
+/*** vertical ***/
+.ver-a-m{vertical-align:middle;}
+.ver-a-t{vertical-align:top;}
+.ver-a-b{vertical-align:bottom;}
+/*** overflow ***/
+.overf-h{overflow:hidden;}
+
+/**************************************
+================ color ========================
+*****************************************/
+.c-000{color:#000;}
+.c-100{color:#100;}
+.c-200{color:#200;}
+.c-300{color:#300;}
+.c-400{color:#400;}
+.c-500{color:#500;}
+.c-600{color:#600;}
+.c-700{color:#700;}
+.c-800{color:#800;}
+.c-900{color:#900;}
+.c-a00{color:#a00;}
+.c-b00{color:#b00;}
+.c-c00{color:#c00;}
+.c-d00{color:#d00;}
+.c-e00{color:#e00;}
+.c-f00{color:#f00;}
+/******************/
+.c-010{color:#010;}
+.c-020{color:#020;}
+.c-030{color:#030;}
+.c-040{color:#040;}
+.c-050{color:#050;}
+.c-060{color:#060;}
+.c-070{color:#070;}
+.c-080{color:#080;}
+.c-090{color:#090;}
+.c-0a0{color:#0a0;}
+.c-0b0{color:#0b0;}
+.c-0c0{color:#0c0;}
+.c-0d0{color:#0d0;}
+.c-0e0{color:#0e0;}
+.c-0f0{color:#0f0;}
+/*******************/
+.c-001{color:#001;}
+.c-002{color:#002;}
+.c-003{color:#003;}
+.c-004{color:#004;}
+.c-005{color:#005;}
+.c-006{color:#006;}
+.c-007{color:#007;}
+.c-008{color:#008;}
+.c-009{color:#009;}
+.c-00a{color:#00a;}
+.c-00b{color:#00b;}
+.c-00c{color:#00c;}
+.c-00d{color:#00d;}
+.c-00e{color:#00e;}
+.c-00f{color:#00f;}
+/******************/
+.c-111{color:#111;}
+.c-222{color:#222;}
+.c-333{color:#333;}
+.c-444{color:#444;}
+.c-555{color:#555;}
+.c-666{color:#666;}
+.c-777{color:#777;}
+.c-888{color:#888;}
+.c-999{color:#999;}
+.c-aaa{color:#aaa;}
+.c-bbb{color:#bbb;}
+.c-ccc{color:#ccc;}
+.c-eee{color:#ddd;}
+.c-fff{color:#fff;}
+/*****************/
+.c-ffb{color:#ffbb35;}
+.c-fa0{color:#fa0;}/*ǳ��*/
+.c-af0{color:#af0;}/*ӫ����*/
+.c-f0a{color:#f0a;}/*�Ϸ�*/
+.c-a0f{color:#a0f;}/*����*/
+.c-0af{color:#0af;}/*ǳ��*/
+.c-0fa{color:#0fa;}/*����*/
+.c-f66{color:#FF6600;}/*���ɫ*/
+.c-8dd{ color: #8dd2f0;}/*����*/
+.c-fec{ color: #fec34e; }/*��ǳ��*/
+.c-fe3 { color: #fe3cf7; }/*����*/
+.c-ee6 { color: #ee688c;}/*���Ϸ�*/
+/*************************************
+======== background-color ===========
+************************************/
+.bgc-000{background-color:#000;}/*��*/
+.bgc-100{background-color:#100;}
+.bgc-200{background-color:#200;}
+.bgc-300{background-color:#300;}
+.bgc-400{background-color:#400;}
+.bgc-500{background-color:#500;}
+.bgc-600{background-color:#600;}
+.bgc-700{background-color:#700;}
+.bgc-800{background-color:#800;}
+.bgc-900{background-color:#900;}
+.bgc-a00{background-color:#a00;}
+.bgc-b00{background-color:#b00;}
+.bgc-c00{background-color:#c00;}
+.bgc-d00{background-color:#d00;}
+.bgc-e00{background-color:#e00;}
+.bgc-f00{background-color:#f00;}
+/******************************/
+.bgc-010{background-color:#010;}/*��*/
+.bgc-020{background-color:#020;}
+.bgc-030{background-color:#030;}
+.bgc-040{background-color:#040;}
+.bgc-050{background-color:#050;}
+.bgc-060{background-color:#060;}
+.bgc-070{background-color:#070;}
+.bgc-080{background-color:#080;}
+.bgc-090{background-color:#090;}
+.bgc-0a0{background-color:#0a0;}
+.bgc-0b0{background-color:#0b0;}
+.bgc-0c0{background-color:#0c0;}
+.bgc-0d0{background-color:#0d0;}
+.bgc-0e0{background-color:#0e0;}
+.bgc-0f0{background-color:#0f0;}
+/*****************************/
+.bgc-001{background-color:#001;}/*����*/
+.bgc-002{background-color:#002;}
+.bgc-003{background-color:#003;}
+.bgc-004{background-color:#004;}
+.bgc-005{background-color:#005;}
+.bgc-006{background-color:#006;}
+.bgc-007{background-color:#007;}
+.bgc-008{background-color:#008;}
+.bgc-009{background-color:#009;}
+.bgc-00a{background-color:#00a;}
+.bgc-00b{background-color:#00b;}
+.bgc-00c{background-color:#00c;}
+.bgc-00d{background-color:#00d;}
+.bgc-00e{background-color:#00e;}
+.bgc-00f{background-color:#00f;}
+/*******************************/
+.bgc-111{background-color:#111;}/*ǳ�Ұ�*/
+.bgc-222{background-color:#222;}
+.bgc-333{background-color:#333;}
+.bgc-444{background-color:#444;}
+.bgc-555{background-color:#555;}
+.bgc-666{background-color:#666;}
+.bgc-777{background-color:#777;}
+.bgc-888{background-color:#888;}
+.bgc-999{background-color:#999;}
+.bgc-aaa{background-color:#aaa;}
+.bgc-bbb{background-color:#bbb;}
+.bgc-ccc{background-color:#ccc;}
+.bgc-eee{background-color:#ddd;}
+.bgc-fff{background-color:#fff;}
+/*******************************/
+.bgc-fa0{background-color:#fa0;}/*ǳ��*/
+.bgc-af0{background-color:#af0;}/*ӫ����*/
+.bgc-f0a{background-color:#f0a;}/*�Ϸ�*/
+.bgc-a0f{background-color:#a0f;}/*����*/
+.bgc-0af{background-color:#0af;}/*ǳ��*/
+.bgc-0fa{background-color:#0fa;}/*����*/
+.bgc-52c{ background: #52c0ea;}/*����*/
+.bgc-fec{ background: #fec34e; }/*��ǳ��*/
+.bgc-fe3 { background: #fe3cf7; }/*����*/
+ .bgc-ee6 { background: #ee688c;}/*���Ϸ�*/
+
+.rig-42{
+    right: 42px!important;
+}
+.wid-125{
+    width: 125px !important;
+}
+.curs-p:hover{
+    cursor: pointer;
+}
+.heig-55{
+    height: 55px;
+}
+.boldRed{
+    color: #f9021e;
+    font-weight: bold;
+}
+.boldBlack{
+    color: #000;
+    font-weight: bold;
+}
+.normal {
+    color: #333;
+}

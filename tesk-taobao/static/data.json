@@ -1,0 +1,4367 @@
+{
+  "banner":{
+    "one":"http://img.alicdn.com/imgextra/i1/152/TB2ejIYc29TBuNjy0FcXXbeiFXa_!!152-0-luban.jpg_q50.jpg",
+    "two":"http://img.alicdn.com/simba/img/TB12UgXgv6H8KJjSspmSuv2WXXa.jpg_q50.jpg",
+    "three":"http://img.alicdn.com/simba/img/TB1VoK.RVXXXXacXFXXSutbFXXX.jpg_q50.jpg",
+    "four":"http:////gw.alicdn.com/imgextra/i3/105/TB2mloOdruWBuNjSszgXXb8jVXa_!!105-0-lubanu.jpg_q50.jpg",
+    "five":"http://gw.alicdn.com/imgextra/i1/85/TB2fg._dXGWBuNjy0FbXXb4sXXa_!!85-0-lubanu.jpg_q50.jpg",
+    "six":"http://gw.alicdn.com/imgextra/i3/109/TB2r6WGcL9TBuNjy1zbXXXpepXa_!!109-0-lubanu.jpg_q50.jpg",
+    "seven":"http://gw.alicdn.com/imgextra/i3/109/TB2r6WGcL9TBuNjy1zbXXXpepXa_!!109-0-lubanu.jpg_q50.jpg",
+    "eight":"http://gw.alicdn.com/imgextra/i1/11/TB2ePgEcrGYBuNjy0FoXXciBFXa_!!11-0-lubanu.jpg_q50.jpg",
+    "nine":"http://gw.alicdn.com/imgextra/i2/184/TB2pd.WdhWYBuNjy1zkXXXGGpXa_!!184-0-lubanu.jpg_q50.jpg"
+  },
+  "nav": {
+    "top":[
+      {
+        "name": "天猫",
+        "img": "https://gw.alicdn.com/tps/TB1FDOHLVXXXXcZXFXXXXXXXXXX-183-129.png?imgtag=avatar"
+      },
+      {
+        "name": "聚划算",
+        "img": "https://gw.alicdn.com/tps/i2/TB19BluIVXXXXX6XpXXN4ls0XXX-183-129.png?imgtag=avatar"
+      },
+      {
+        "name": "天猫国际",
+        "img": "https://gw.alicdn.com/tps/TB1PlmNLVXXXXXEXFXXXXXXXXXX-183-129.png?imgtag=avata"
+      },
+      {
+        "name": "外卖",
+        "img": "//gw.alicdn.com/tps/TB1RN0HMFXXXXXNXpXXXXXXXXXX-183-129.png?imgtag=avatar"
+      },
+      {
+        "name": "天猫超市",
+        "img": "https://gw.alicdn.com/tps/TB1exaOLVXXXXXeXFXXXXXXXXXX-183-129.png?imgtag=avatar"
+      }
+    ],
+    "bottom":[
+      {
+        "name": "充值中心",
+        "img": "https://img.alicdn.com/tps/TB1GzMJLXXXXXXoXXXXXXXXXXXX-183-129.png"
+      },
+      {
+        "name": "飞猪旅行",
+        "img": "http://gw.alicdn.com/tps/TB1LNMxPXXXXXbhaXXXXXXXXXXX-183-129.png"
+      },
+      {
+        "name": "领金币",
+        "img": "https://gw.alicdn.com/tps/TB1cniBJpXXXXataXXXXXXXXXXX-183-129.png?imgtag=avatar"
+      },
+      {
+        "name": "拍卖",
+        "img": "https://img.alicdn.com/tfs/TB1Kxe8QFXXXXbSXVXXXXXXXXXX-183-129.png"
+      },
+      {
+        "name": "分类",
+        "img": "https://gw.alicdn.com/tps/i1/TB1c1FMIpXXXXawXpXXN4ls0XXX-183-129.png?imgtag=avatar"
+      }
+    ]
+      },
+  "topLine":[
+    {"name":"居家","text":"冰箱门上夹张纸，每个月竟能省下一半电费"},
+    {"name":"汽车","text":"刹车失灵不要慌，车上还有第二套刹车系统"},
+    {"name":"热文","text":"小米员工用苹果手机？雷军这回答666"}
+  ],
+  "goods":{
+    "good":"http://img.alicdn.com/tps/TB19RaGLpXXXXcDXpXXXXXXXXXX-333-261.jpg_q50.jpg?imgtag=avatar",
+    "xues":"http://img.alicdn.com/imgextra/i4/92/TB2VtBouXXXXXa2XpXXXXXXXXXX_!!2-subaru.png",
+    "bb":"//gw.alicdn.com/tps/TB1MzfaLpXXXXaXXXXXXXXXXXXX-345-306.jpg_q50.jpg",
+    "qd":"//img.alicdn.com/imgextra/i3/27/TB21MzojFXXXXXbXpXXXXXXXXXX_!!27-2-subaru.png"
+  },
+  "cheap":{
+    "img":"//img.alicdn.com/tps/TB1t9n6LFXXXXaXXXXXXXXXXXXX-60-60.png",
+    "name":"超实惠",
+    "listTop":[
+      {"img":"//gw.alicdn.com/tps/TB1u_5AKVXXXXaGXFXXXXXXXXXX-432-330.jpg_q50.jpg"},
+      {"img":"//img.alicdn.com/tps/TB1ElUEJVXXXXbfXFXXXXXXXXXX-225-354.png"},
+      {"img":"//gw.alicdn.com/tps/i3/TB17m7FLpXXXXXZXpXXKWJi7pXX-231-330.png"},
+      {"img":"//gw.alicdn.com/tps/i1/TB1rWBkJFXXXXXXXpXX7Wdi7pXX-231-330.jpg_q50.jpg"}
+    ],
+    "listBottom":[
+      {"img":"//img.alicdn.com/imgextra/i1/70/TB2P_ivdER1BeNjy0FmXXb0wVXa_!!2-subaru.png"},
+      {"img":"http://img.alicdn.com/bao/uploaded/TB1AdvmNFXXXXXwXFXXSutbFXXX.jpg_q50.jpg"},
+      {"img":"http://img.alicdn.com/imgextra/i2/2670830951/TB25NlYaWm5V1BjSsziXXaZMpXa_!!2670830951.jpg_q50.jpg"},
+      {"img":"//img.alicdn.com/imgextra/i3/18/TB2Wds6mR0kpuFjSsppXXcGTXXa_!!2-subaru.png"}
+    ]
+  },
+  "tianm":{
+    "icon":"//img.alicdn.com/tps/TB1xT2ILFXXXXb9XVXXXXXXXXXX-60-60.png",
+    "text":"天猫",
+    "top":[
+      {"img":"//img.alicdn.com/imgextra/i3/4/TB2FeBTXSiK.eBjSZFDXXbxZVXa_!!2-subaru.png"},
+      {"img":"//gw.alicdn.com/tps/i2/TB1VoUhLpXXXXaBXVXXUq7TGpXX-563-330.png"}
+    ],
+    "bottom":[
+      {"img":"//img.alicdn.com/imgextra/i2/5/TB2JglrXp_AQeBjSZFyXXb1bXXa_!!2-subaru.png"},
+      {"img":"//gw.alicdn.com/tfs/TB15bCLRpXXXXXiXVXXXXXXXXXX-281-330.jpg_q50.jpg"},
+      {"img":"//img.alicdn.com/tfs/TB16bGvQpXXXXXAaXXXXXXXXXXX-281-330.jpg_q50.jpg"},
+      {"img":"//img.alicdn.com/tfs/TB1.GSHRVXXXXbJaXXXXXXXXXXX-281-330.jpg_q50.jpg"}
+    ]
+  },
+  "feature":{
+    "img":"//img.alicdn.com/tps/TB1MpTWLFXXXXbnXpXXXXXXXXXX-60-60.png",
+    "name":"特色好货",
+    "listTop":[
+      {"img":"//img.alicdn.com/imgextra/i3/60/TB21imsuEhnpuFjSZFEXXX0PFXa_!!2-subaru.png"},
+      {"img":"//gw.alicdn.com/mt/TB1E9hWdqigSKJjSsppXXabnpXa-225-354.jpg_q50.jpg"},
+      {"img":"//img.alicdn.com/imgextra/i3/42/TB2NC2npXXXXXaTXpXXXXXXXXXX_!!2-subaru.png"},
+      {"img":"//gw.alicdn.com/tps/i1/TB193dyJFXXXXauXpXXKWJi7pXX-231-330.png"}
+    ],
+    "listBottom":[
+      {"img":"//img.alicdn.com/imgextra/i3/56/TB2xIKKeByN.eBjSZFIXXXbUVXa_!!2-subaru.png"},
+      {"img":"//img.alicdn.com/tfs/TB1UQCcSpXXXXcQXpXXXXXXXXXX-231-330.jpg_q50.jpg"},
+      {"img":"//gw.alicdn.com/tfs/TB1qL7BRXXXXXbzXXXXXXXXXXXX-231-330.png"},
+      {"img":"//gw.alicdn.com/tfs/TB1cwX3hgMPMeJjy1XdXXasrXXa-231-330.jpg_q50.jpg"}
+    ]
+  },
+  "service":{
+    "icon":"http://gw.alicdn.com/tps/i1/TB1yRS0LpXXXXXSXVXXYJiQPFXX-480-108.png",
+    "name": "更多服务",
+    "img": "//gw.alicdn.com/tps/i3/TB17wpIMXXXXXbpaXXXwprb_XXX-1125-225.jpg_q50.jpg"
+  },
+  "everyDay":{
+    "name":"每日好店",
+    "more":"更多",
+    "list-left":{
+      "tj":"http://gw.alicdn.com/bao/uploaded/i3/2049232708/TB2zRwNbrL9F1JjSZJiXXcDGpXa_!!2049232708.jpg_q50.jpg",
+      "bb":"//gw.alicdn.com/bao/uploaded/i1/1093559453/TB283Yfdd.LL1JjSZFEXXcVmXXa_!!1093559453.jpg_q50.jpg"
+    },
+    "list-right":{
+      "rb":"http://gw.alicdn.com/bao/uploaded/i1/2049232708/TB2_ubxdtfJ8KJjy0FeXXXKEXXa_!!2049232708.jpg_q50.jpg",
+      "jz":"http://gw.alicdn.com/bao/uploaded/i2/2049232708/TB2.xfshs2vU1JjSZFwXXX2cpXa_!!2049232708.jpg_q50.jpg",
+      "bb":"http://gw.alicdn.com/bao/uploaded/i4/1093559453/TB2XQCXymVmpuFjSZFFXXcZApXa_!!1093559453.jpg_q50.jpg",
+      "bbs":"http://gw.alicdn.com/bao/uploaded/i2/TB16XGbSVXXXXchapXXYXGcGpXX_M2.SS2"
+    }
+  },
+  "like":[
+    {
+      "img": "//img.alicdn.com/bao/uploaded/i2/3547214471/TB1PmNCkAfb_uJjSsrbXXb6bVXa_!!0-item_pic.jpg_q50.jpg",
+      "text": "这些商品都可以点进去预览的哦！O(∩_∩)O哈哈~...",
+      "id": "one",
+      "text1": "",
+      "price": 2599.0,
+      "detail":{
+        "words":[
+          {"name":"Lenovo/联想 IdeaPad --120S轻薄便携商务办公游戏学生笔记本电脑"},
+          {"price":"￥2599-4039","scholl":"开学季"},
+          {"pricetxt":"价格:","oldPrice":"¥3358.8-4846.8"},
+          {"apptxt": "天猫app￥2598.00，去购买>"},
+          {"tips": "该商品最高可享3期分期免息"},
+          {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东广州"},
+          {
+            "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+            "goodtxt":"全天猫实物商品通用"
+          },
+          {
+            "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+            "goodtxt":"领取优惠券"
+          },
+          {
+            "jf":"积分",
+            "jftxt": "购买可得259积分",
+            "dot":"•••"
+          },
+          {
+            "bz":"正品保证",
+            "fast":"·极速退款",
+            "seven":"·七天退换",
+            "dot":"•••"
+          },
+          {
+            "selector":"请选择颜色分类/套餐",
+            "dot":"•••"
+          },
+          {
+            "product":"产品参数",
+            "dot":"•••"
+          }
+        ],
+        "Banner":[
+          {"pic":"//img.alicdn.com/imgextra/i2/3547214471/TB1PmNCkAfb_uJjSsrbXXb6bVXa_!!0-item_pic.jpg_760x760Q50s50.jpg"},
+          {"pic":"//img.alicdn.com/imgextra/i2/3547214471/TB2c9kxc8fM8KJjSZFrXXXSdXXa_!!3547214471.jpg_760x760Q50s50.jpg"},
+          {"pic":"//img.alicdn.com/imgextra/i1/3547214471/TB1biU8i4rI8KJjy0FpXXb5hVXa_!!0-item_pic.jpg_760x760Q50s50.jpg"},
+          {"pic":"//img.alicdn.com/imgextra/i2/3547214471/TB2JVjtgDlYBeNjSszcXXbwhFXa_!!3547214471.jpg_760x760Q50s50.jpg"},
+          {"pic":"//img.alicdn.com/imgextra/i3/3547214471/TB2obbhaTdYBeNkSmLyXXXfnVXa_!!3547214471.jpg_760x760Q50s50.jpg"}
+        ],
+        "area": "广东广州",
+        "receive":[
+          {
+            "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+            "text":"全天猫实物商品通用",
+            "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+            "txt": "领取优惠券"
+          }
+        ],
+        "sever":[
+          {
+            "name1":"正品保证",
+            "name2":"极速退款",
+            "name3":"七天退货"
+          }
+        ],
+        "selects":{
+          "type":{
+            "grays":{
+              "color":"银灰色",
+              "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+              "type":{
+                "standard":{
+                  "text":"官方标配",
+                  "price":"¥2699",
+                  "stock":"40"
+                },
+                "one":{
+                  "text":"套餐一",
+                  "price":"¥3039",
+                  "stock":"27"
+                },
+                "two":{
+                  "text":"套餐二",
+                  "price":"¥2999",
+                  "stock":"21"
+                },
+                "three":{
+                  "text":"套餐三",
+                  "price":"¥3339",
+                  "stock":"22"
+                },
+                "four":{
+                  "text":"套餐四",
+                  "price":"¥3299",
+                  "stock":"22"
+                },
+                "five":{
+                  "text":"套餐五",
+                  "price":"¥3639",
+                  "stock":"22"
+                }
+              }
+            },
+            "black":{
+              "color":"黑色",
+              "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+              "type":{
+                "standard":{
+                  "text":"官方标配",
+                  "price":"¥2699",
+                  "stock":"40"
+                },
+                "one":{
+                  "text":"套餐一",
+                  "price":"¥3039",
+                  "stock":"27"
+                },
+                "two":{
+                  "text":"套餐二",
+                  "price":"¥2999",
+                  "stock":"21"
+                },
+                "three":{
+                  "text":"套餐三",
+                  "price":"¥3339",
+                  "stock":"22"
+                },
+                "four":{
+                  "text":"套餐四",
+                  "price":"¥3299",
+                  "stock":"22"
+                },
+                "five":{
+                  "text":"套餐五",
+                  "price":"¥3639",
+                  "stock":"22"
+                }
+              }
+            },
+            "gray":{
+              "color":"银色",
+              "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+              "type":{
+                "standard":{
+                  "text":"官方标配",
+                  "price":"¥2899",
+                  "stock":"46"
+                },
+                "one":{
+                  "text":"套餐一",
+                  "price":"¥3199",
+                  "stock":"32"
+                },
+                "two":{
+                  "text":"套餐二",
+                  "price":"¥3399",
+                  "stock":"26"
+                },
+                "three":{
+                  "text":"套餐三",
+                  "price":"¥3739",
+                  "stock":"27"
+                },
+                "four":{
+                  "text":"套餐四",
+                  "price":"¥3599",
+                  "stock":"26"
+                },
+                "five":{
+                  "text":"套餐五",
+                  "price":"¥3939",
+                  "stock":"28"
+                }
+              }
+            }
+          }
+        },
+        "moreRating":{
+          "raTings":[
+            {
+              "name":  "鹏***3",
+              "text": "收货了一个星期以后才评价。总体感觉还是可以。性价比高，我就办公用，看看视频。足够用了。",
+              "zptitle":"30天后追评",
+              "zp":"整个来说用了一段时间还是比较顺畅。屏幕的清晰度很满意。目前没有发现问题。",
+              "time": "2018-04-05",
+              "type": "官方标配",
+              "color": "银灰色",
+              "raType": 5,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2kyXTiL5TBuNjSspmXXaDRVXa_!!0-rate.jpg",
+              "pic2":"//img.alicdn.com/bao/uploaded/i2/0/TB2bP2CcaAoBKNjSZSyXXaHAVXa_!!0-rate.jpg",
+              "pic3":"//img.alicdn.com/bao/uploaded/i3/0/TB2JF9biUR1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "L***2",
+              "text": "宝贝早收到了，一直没时间评论，用了好久，个人感觉还是不错的，开机只要六秒，美中不足就是待机时间不长，但是电脑也是情有可原了，我买的是套餐六，内存比较大一些，还在徘徊的宝宝们赶快下单吧，你值得拥有哦",
+              "zptitle":"1天后追评",
+              "zp":"安装软件也不错",
+              "time": "2018-04-05",
+              "type": "官方标配",
+              "color": "银灰色",
+              "raType": 5,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2kyXTiL5TBuNjSspmXXaDRVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "是多少***2",
+              "text": "特意使用了两天才来评价的，说实话性价比挺高，运行cad等没问题，也比较流畅，还玩了下游戏，不卡，运行的cpu温度一般在40左右，总之很满意！第一天拍第二天就到了，给力",
+              "zptitle":"10天后追评",
+              "zp":"第三天了，挺好，没什么问题，散热也挺好的，玩吧游戏去！",
+              "time": "2018-03-05",
+              "type": "官方标配",
+              "color": "黑色",
+              "raType": 5,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i4/0/TB2RK1vimtYBeNjSspkXXbU8VXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "吉*****0",
+              "text": "电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦",
+              "time": "2018-03-13",
+              "type": "套餐三",
+              "raType": 1,
+              "havepic": 1,
+              "color": "黑色",
+              "bq":"官方标配",
+              "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+              "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+              "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "t***5",
+              "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+              "time": "2018-03-13",
+              "type": "套餐三",
+              "raType": 2,
+              "havepic": 1,
+              "color": "黑色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+              "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+              "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "gg***5",
+              "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+              "raType": 2,
+              "havepic": 1,
+              "time": "2018-03-18",
+              "type": "套餐四",
+              "color": "白色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "C***5",
+              "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+              "time": "2018-03-13",
+              "raType": 2,
+              "havepic": 1,
+              "type": "官方标配",
+              "color": "银灰色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "a***5",
+              "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+              "time": "2018-03-18",
+              "raType": 1,
+              "havepic": 0,
+              "type": "官方标配",
+              "color": "银灰色"
+            },
+            {
+              "name":  "d***5",
+              "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+              "time": "2018-03-18",
+              "raType": 1,
+              "havepic": 1,
+              "type": "官方标配",
+              "color": "银灰色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "a***5",
+              "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+              "time": "2018-03-08",
+              "type": "官方标配",
+              "raType": 3,
+              "color": "黑色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+              "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+              "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "y***5",
+              "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+              "time": "2018-03-13",
+              "raType": 2,
+              "type": "官方标配",
+              "color": "银灰色",
+              "havepic": 0
+            },
+            {
+              "name":  "a***5",
+              "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+              "time": "2018-03-18",
+              "type": "官方标配",
+              "raType": 3,
+              "color": "银灰色",
+              "havepic": 0
+            },
+            {
+              "name":  "l***5",
+              "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+              "time": "2018-03-18",
+              "type": "官方标配",
+              "color": "银灰色",
+              "raType": 3,
+              "havepic": 0
+            },
+            {
+              "name":  "pp***5",
+              "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+              "time": "2018-03-18",
+              "type": "套餐四",
+              "color": "白色",
+              "raType": 3,
+              "havepic": 0
+            },
+            {
+              "name":  "pp***5",
+              "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+              "time": "2018-01-18",
+              "type": "套餐四",
+              "color": "银色",
+              "raType": 4,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "qq***5",
+              "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+              "time": "2018-03-28",
+              "type": "套餐四",
+              "color": "黑色",
+              "raType": 4,
+              "havepic": 0
+            },
+            {
+              "name":  "cc***5",
+              "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+              "time": "2018-03-18",
+              "type": "套餐四",
+              "color": "白色",
+              "raType": 4,
+              "havepic": 0
+            }
+          ]
+        },
+        "comment":[
+          {"title":"商品评价(1008)"},
+          {"sever":"服务好(170)","fast":"运行速度快(76)","bx":"便携(55)","bz":"包装挺好(50)","zp":"有赠品(45)","see":"外观极佳(66)"},
+          {
+            "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vGNuOHcWv88YXF-HPmvbM0x0MmQWPCZzv0kyPFleX8gYXHRzMmgWMFNuP07IXm8S&width=70&height=70&type=sns",
+            "name": "吉***0",
+            "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+          },
+          {"text":"电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦"},
+          {"timee":"2018-03-22","color":"颜色分类:银灰色","type":"套餐类型:官方标配"},
+          {"more":"查看更多评价"}
+        ],
+        "logos":[
+          {
+            "logo": "//img.alicdn.com/imgextra//cb/5c/TB1t0aei3nH8KJjSspcSuv3QFXa.jpg_120x120Q50s50.jpg_.webp",
+            "title": "联想网新专卖店",
+            "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+          }
+        ],
+        "sellers":[
+          {
+            "pic":"//img.alicdn.com/imgextra//cb/5c/TB1t0aei3nH8KJjSspcSuv3QFXa.jpg_120x120Q50s50.jpg",
+            "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+            "title": "联想网新专卖店"
+          },
+          {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.8"},
+          {
+            "all":"全部商品",
+            "shopping":"进入店铺"
+          }
+        ],
+        "sees":[
+          {
+            "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+            "pirce":2599
+          },
+          {
+            "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+            "pirce": 3599
+          },
+          {
+            "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+            "pirce": 2399
+          }
+        ],
+        "bBanner":{
+          "ones":[
+            {
+              "img": "//img.alicdn.com/bao/uploaded/TB1.T3lguuSBuNjSsplXXbe8pXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title": "Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+              "price": "¥3718.8",
+              "lprice": "¥2799"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB132CPebGYBuNjy0FoXXciBFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+              "price":"¥4438.8",
+              "lprice":"¥3599"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1iaVldb1YBuNjSszhXXcUsFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 120S-轻薄便携商务学生256G固态笔记本电脑",
+              "price":"¥3838.8",
+              "lprice":"¥2799"
+            }
+          ],
+          "two":[
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+              "price":"¥3358.8",
+              "lprice":"¥2599"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB10brPgDJYBeNjy1zeXXahzVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 110-i7独显游戏商务办公学生轻薄笔记本电脑",
+              "price":"¥2799",
+              "lprice":"¥4099"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+              "price":"¥3899",
+              "lprice":"¥2899"
+            }
+          ],
+          "three":[
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+              "price":"¥5999",
+              "lprice":"¥4999"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+              "price":"¥5999",
+              "lprice":"¥2799"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+              "price":"¥8999",
+              "lprice":"¥2899"
+            }
+          ],
+          "four":[
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+              "price":"¥6808",
+              "lprice":"¥5199"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+              "price":"¥5999",
+              "lprice":"¥4299"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+              "price":"¥8999",
+              "lprice":"¥3599"
+            }
+          ]
+        },
+        "detailed":[
+          {"img":"//img.alicdn.com/imgextra/i3/3547214471/TB2LGjyXYZnBKNjSZFGXXbt3FXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+          {"img":"//img.alicdn.com/imgextra/i3/3547214471/TB2dUVWhb5YBuNjSspoXXbeNFXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+          {"img":"//img.alicdn.com/imgextra/i2/3547214471/TB2yXmUdBfM8KJjSZFOXXXr5XXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+          {"img":"//img.alicdn.com/imgextra/i3/3547214471/TB2eFKejNTI8KJjSspiXXbM4FXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+          {"img":"//img.alicdn.com/imgextra/i2/3547214471/TB2lKu3dpHM8KJjSZFwXXcibXXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+          {"img":"//img.alicdn.com/imgextra/i2/3547214471/TB20O5EjS_I8KJjy0FoXXaFnVXa_!!3547214471.jpg_2200x2200Q90s50.jpg"}
+        ]
+      }
+    },
+    {
+      "img": "http://img.alicdn.com/bao/uploaded/i4/56513501/TB2IU_uflLN8KJjSZPhXXc.spXa_!!56513501.jpg_q50.jpg",
+      "text": "送显示器四核独显游戏组装电脑主机吃鸡电脑LOL...",
+      "text1": "",
+      "id": "two",
+      "price": 998.0,
+      "detail":{
+        "words":[
+          {"name":"送显示器四核独显游戏组装电脑主机吃鸡电脑LOL主机台式全套整机"},
+          {"price":"￥1198-3998","scholl":"爆款促销"},
+          {"pricetxt":"价格:","oldPrice":"¥3358.8-4846.8"},
+          {"apptxt": "天猫app￥2598.00，去购买>"},
+          {"tips": "该商品最高可享3期分期免息"},
+          {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东广州"},
+          {
+            "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+            "goodtxt":"全天猫实物商品通用"
+          },
+          {
+            "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+            "goodtxt":"领取优惠券"
+          },
+          {
+            "jf":"积分",
+            "jftxt": "购买可得259积分",
+            "dot":"•••"
+          },
+          {
+            "bz":"正品保证",
+            "fast":"·极速退款",
+            "seven":"·七天退换",
+            "dot":"•••"
+          },
+          {
+            "selector":"请选择颜色分类/套餐",
+            "dot":"•••"
+          },
+          {
+            "product":"产品参数",
+            "dot":"•••"
+          }
+        ],
+        "Banner":[
+          {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2IU_uflLN8KJjSZPhXXc.spXa_!!56513501.jpg_760x760q50s150.jpg"},
+          {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2FyrsiNrI8KJjy0FpXXb5hVXa_!!56513501.jpg_760x760q50s150.jpg"},
+          {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2qPISfgjN8KJjSZFCXXb3GpXa_!!56513501.jpg_760x760q50s150.jpg"},
+          {"pic":"//gw.alicdn.com/imgextra/i2/56513501/TB2KnhloMLD8KJjSszeXXaGRpXa_!!56513501.jpg_760x760q50s150.jpg"},
+          {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2d8sSfXYM8KJjSZFuXXcf7FXa_!!56513501.jpg_760x760q50s150.jpg"}
+        ],
+        "area": "广东深圳",
+        "receive":[
+          {
+            "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+            "text":"全天猫实物商品通用",
+            "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+            "txt": "领取优惠券"
+          }
+        ],
+        "sever":[
+          {
+            "name1":"正品保证",
+            "name2":"极速退款",
+            "name3":"七天退货"
+          }
+        ],
+        "selects":{
+          "type":{
+            "grays":{
+              "color":"银灰色",
+              "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+              "type":{
+                "standard":{
+                  "text":"官方标配",
+                  "price":"¥2699",
+                  "stock":"40"
+                },
+                "one":{
+                  "text":"套餐一",
+                  "price":"¥3039",
+                  "stock":"27"
+                },
+                "two":{
+                  "text":"套餐二",
+                  "price":"¥2999",
+                  "stock":"21"
+                },
+                "three":{
+                  "text":"套餐三",
+                  "price":"¥3339",
+                  "stock":"22"
+                },
+                "four":{
+                  "text":"套餐四",
+                  "price":"¥3299",
+                  "stock":"22"
+                },
+                "five":{
+                  "text":"套餐五",
+                  "price":"¥3639",
+                  "stock":"22"
+                }
+              }
+            },
+            "black":{
+              "color":"黑色",
+              "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+              "type":{
+                "standard":{
+                  "text":"官方标配",
+                  "price":"¥2699",
+                  "stock":"40"
+                },
+                "one":{
+                  "text":"套餐一",
+                  "price":"¥3039",
+                  "stock":"27"
+                },
+                "two":{
+                  "text":"套餐二",
+                  "price":"¥2999",
+                  "stock":"21"
+                },
+                "three":{
+                  "text":"套餐三",
+                  "price":"¥3339",
+                  "stock":"22"
+                },
+                "four":{
+                  "text":"套餐四",
+                  "price":"¥3299",
+                  "stock":"22"
+                },
+                "five":{
+                  "text":"套餐五",
+                  "price":"¥3639",
+                  "stock":"22"
+                }
+              }
+            },
+            "gray":{
+              "color":"银色",
+              "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+              "type":{
+                "standard":{
+                  "text":"官方标配",
+                  "price":"¥2899",
+                  "stock":"46"
+                },
+                "one":{
+                  "text":"套餐一",
+                  "price":"¥3199",
+                  "stock":"32"
+                },
+                "two":{
+                  "text":"套餐二",
+                  "price":"¥3399",
+                  "stock":"26"
+                },
+                "three":{
+                  "text":"套餐三",
+                  "price":"¥3739",
+                  "stock":"27"
+                },
+                "four":{
+                  "text":"套餐四",
+                  "price":"¥3599",
+                  "stock":"26"
+                },
+                "five":{
+                  "text":"套餐五",
+                  "price":"¥3939",
+                  "stock":"28"
+                }
+              }
+            }
+          }
+        },
+        "moreRating":{
+          "raTings":[
+            {
+              "name":  "h***3",
+              "text": "食鸡没有问题非常好好好好",
+              "zptitle":"30天后追评",
+              "zp":"整个来说用了一段时间还是比较顺畅。屏幕的清晰度很满意。目前没有发现问题。",
+              "time": "2018-04-05",
+              "type": "官方标配",
+              "color": "银灰色",
+              "raType": 5,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2kyXTiL5TBuNjSspmXXaDRVXa_!!0-rate.jpg",
+              "pic2":"//img.alicdn.com/bao/uploaded/i2/0/TB2bP2CcaAoBKNjSZSyXXaHAVXa_!!0-rate.jpg",
+              "pic3":"//img.alicdn.com/bao/uploaded/i3/0/TB2JF9biUR1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "L***2",
+              "text": "宝贝早收到了，一直没时间评论，用了好久，个人感觉还是不错的，开机只要六秒，美中不足就是待机时间不长，但是电脑也是情有可原了，我买的是套餐六，内存比较大一些，还在徘徊的宝宝们赶快下单吧，你值得拥有哦",
+              "zptitle":"1天后追评",
+              "zp":"安装软件也不错",
+              "time": "2018-04-05",
+              "type": "官方标配",
+              "color": "银灰色",
+              "raType": 5,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2kyXTiL5TBuNjSspmXXaDRVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "是多少***2",
+              "text": "特意使用了两天才来评价的，说实话性价比挺高，运行cad等没问题，也比较流畅，还玩了下游戏，不卡，运行的cpu温度一般在40左右，总之很满意！第一天拍第二天就到了，给力",
+              "zptitle":"10天后追评",
+              "zp":"第三天了，挺好，没什么问题，散热也挺好的，玩吧游戏去！",
+              "time": "2018-03-05",
+              "type": "官方标配",
+              "color": "黑色",
+              "raType": 5,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i4/0/TB2RK1vimtYBeNjSspkXXbU8VXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "吉*****0",
+              "text": "电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦",
+              "time": "2018-03-13",
+              "type": "套餐三",
+              "raType": 1,
+              "havepic": 1,
+              "color": "黑色",
+              "bq":"官方标配",
+              "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+              "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+              "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "t***5",
+              "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+              "time": "2018-03-13",
+              "type": "套餐三",
+              "raType": 2,
+              "havepic": 1,
+              "color": "黑色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+              "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+              "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "gg***5",
+              "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+              "raType": 2,
+              "havepic": 1,
+              "time": "2018-03-18",
+              "type": "套餐四",
+              "color": "白色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jp"
+            },
+            {
+              "name":  "C***5",
+              "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+              "time": "2018-03-13",
+              "raType": 2,
+              "havepic": 1,
+              "type": "官方标配",
+              "color": "银灰色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "a***5",
+              "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+              "time": "2018-03-18",
+              "raType": 1,
+              "havepic": 0,
+              "type": "官方标配",
+              "color": "银灰色"
+            },
+            {
+              "name":  "d***5",
+              "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+              "time": "2018-03-18",
+              "raType": 1,
+              "havepic": 1,
+              "type": "官方标配",
+              "color": "银灰色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "a***5",
+              "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+              "time": "2018-03-08",
+              "type": "官方标配",
+              "raType": 3,
+              "color": "黑色",
+              "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+              "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+              "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "y***5",
+              "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+              "time": "2018-03-13",
+              "raType": 2,
+              "type": "官方标配",
+              "color": "银灰色",
+              "havepic": 0
+            },
+            {
+              "name":  "a***5",
+              "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+              "time": "2018-03-18",
+              "type": "官方标配",
+              "raType": 3,
+              "color": "银灰色",
+              "havepic": 0
+            },
+            {
+              "name":  "l***5",
+              "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+              "time": "2018-03-18",
+              "type": "官方标配",
+              "color": "银灰色",
+              "raType": 3,
+              "havepic": 0
+            },
+            {
+              "name":  "pp***5",
+              "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+              "time": "2018-03-18",
+              "type": "套餐四",
+              "color": "白色",
+              "raType": 3,
+              "havepic": 0
+            },
+            {
+              "name":  "pp***5",
+              "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+              "time": "2018-01-18",
+              "type": "套餐四",
+              "color": "银色",
+              "raType": 4,
+              "havepic": 1,
+              "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+            },
+            {
+              "name":  "qq***5",
+              "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+              "time": "2018-03-28",
+              "type": "套餐四",
+              "color": "黑色",
+              "raType": 4,
+              "havepic": 0
+            },
+            {
+              "name":  "cc***5",
+              "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+              "time": "2018-03-18",
+              "type": "套餐四",
+              "color": "白色",
+              "raType": 4,
+              "havepic": 0
+            }
+          ]
+        },
+        "comment":[
+          {"title":"商品评价(7188)"},
+          {"sever":"服务好(170)","fast":"运行速度快(76)","bx":"便携(55)","bz":"包装挺好(50)","zp":"有赠品(45)","see":"外观极佳(66)"},
+          {
+            "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vGNuOHcWv88YXF-HPmvbM0x0MmQWPCZzv0kyPFleX8gYXHRzMmgWMFNuP07IXm8S&width=70&height=70&type=sns",
+            "name": "吉***0",
+            "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+          },
+          {"text":"电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦"},
+          {"timee":"2018-03-22","color":"内存容量:16GB","type":"套餐类型:500GB"},
+          {"more":"查看更多评价"}
+        ],
+        "logos":[
+          {
+            "logo": "//img.alicdn.com/imgextra//1b/9f/TB1SBNXSpXXXXb9apXXSutbFXXX.jpg",
+            "title": "华南电竞联盟",
+            "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+          }
+        ],
+        "sellers":[
+          {
+            "pic":"//img.alicdn.com/imgextra//1b/9f/TB1SBNXSpXXXXb9apXXSutbFXXX.jpg",
+            "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+            "title": "华南电竞联盟"
+          },
+          {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.8"},
+          {
+            "all":"全部商品",
+            "shopping":"进入店铺"
+          }
+        ],
+        "sees":[
+          {
+            "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+            "pirce":2599
+          },
+          {
+            "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+            "pirce": 3599
+          },
+          {
+            "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+            "pirce": 2399
+          }
+        ],
+        "bBanner":{
+          "ones":[
+            {
+              "img": "//img.alicdn.com/bao/uploaded/TB1.T3lguuSBuNjSsplXXbe8pXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title": "Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+              "price": "¥3718.8",
+              "lprice": "¥2799"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB132CPebGYBuNjy0FoXXciBFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+              "price":"¥4438.8",
+              "lprice":"¥3599"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1iaVldb1YBuNjSszhXXcUsFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 120S-轻薄便携商务学生256G固态笔记本电脑",
+              "price":"¥3838.8",
+              "lprice":"¥2799"
+            }
+          ],
+          "two":[
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+              "price":"¥3358.8",
+              "lprice":"¥2599"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB10brPgDJYBeNjy1zeXXahzVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 110-i7独显游戏商务办公学生轻薄笔记本电脑",
+              "price":"¥2799",
+              "lprice":"¥4099"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+              "price":"¥3899",
+              "lprice":"¥2899"
+            }
+          ],
+          "three":[
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+              "price":"¥5999",
+              "lprice":"¥4999"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+              "price":"¥5999",
+              "lprice":"¥2799"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+              "price":"¥8999",
+              "lprice":"¥2899"
+            }
+          ],
+          "four":[
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+              "price":"¥6808",
+              "lprice":"¥5199"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+              "price":"¥5999",
+              "lprice":"¥4299"
+            },
+            {
+              "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+              "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+              "price":"¥8999",
+              "lprice":"¥3599"
+            }
+          ]
+        },
+        "detailed":[
+          {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2LtPQcbSYBuNjSspiXXXNzpXa_!!56513501.jpg_970x970q50s150.jpg"},
+          {"img":"//gw.alicdn.com/imgextra/i3/56513501/TB2hXCjhv1TBuNjy0FjXXajyXXa_!!56513501.jpg_970x970q50s150.jpg"},
+          {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2O0ODhx9YBuNjy0FfXXXIsVXa_!!56513501.jpg_970x970q50s150.jpg"},
+          {"img":"//gw.alicdn.com/imgextra/i3/56513501/TB2m02ZcgaTBuNjSszfXXXgfpXa_!!56513501.jpg_970x970q50s150.jpg"},
+          {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2GkA8iJzJ8KJjSspkXXbF7VXa_!!56513501.jpg_970x970q50s150.jpg"},
+          {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2puU1iNTI8KJjSspiXXbM4FXa_!!56513501.jpg_970x970q50s150.jpg"}
+        ]
+      }
+    },
+    {
+      "img": "http://img.alicdn.com/bao/uploaded///img.alicdn.com/bao/uploaded/i2/2616970884/TB2IU3OdkOWBuNjSsppXXXPgpXa_!!2616970884.jpg_q50.jpg",
+      "text": "【12期免息】Apple/苹果iPhone X全网通4G手机...",
+      "text1": "",
+      "id": "three",
+      "price": 8388.0
+    },
+    {
+      "id": "four",
+      "img": "//img.alicdn.com/bao/uploaded/i4/TB17hDdRFXXXXXHXpXXXXXXXXXX_!!0-item_pic.jpg_q50.jpg",
+      "text": "adidas 阿迪达斯 三叶草女子 紧身裤 黑AJ8081...",
+      "text1": "",
+      "price": 299.0
+    },
+    {
+      "id": "five",
+      "img": "//img.alicdn.com/bao/uploaded/i3/890482188/TB1K0JUbamWBuNjy1XaXXXCbXXa_!!0-item_pic.jpg_q50.jpg",
+      "text": "Nike 耐克官方NIKE TESSEN男子运动鞋AA2160...",
+      "text1": "",
+      "price": 549.0
+    },
+    {
+      "id": "six",
+      "img": "http://img.alicdn.com/bao/uploaded/i4/682860705/TB2H1ADXSBYBeNjy0FeXXbnmFXa_!!682860705.jpg_q50.jpg",
+      "text": "台湾风味鲜芋仙Q弹芋圆仙草奶茶甜品原料四种口味...",
+      "text1": "",
+      "price": 18.8
+    }
+  ],
+  "search": {
+    "zongh": [
+      {
+        "pic": "//gw3.alicdn.com/bao/uploaded/i2/2928278102/TB1CItAd.R1BeNjy0FmXXb0wVXa_!!0-item_pic.jpg_210x210.jpg",
+        "title": "立减+健腰贴】白云山陈李济舒筋健腰丸腰间盘突出舒经建腰旗舰店",
+        "pirce": 890,
+        "free": "免运费",
+        "sales": 21633,
+        "area": "广州"
+      },
+      {
+        "pic": "//gw3.alicdn.com/bao/uploaded/i4/2928278102/TB1q5sUdr5YBuNjSspoXXbeNFXa_!!2-item_pic.png_210x210.jpg",
+        "title": "拍下立减10】汇仁牌肾宝片126片成人口服 肾亏虚补肾肾虚男补亏损",
+        "pirce": 322,
+        "free": "免运费",
+        "sales": 21233,
+        "area": "深圳"
+      },
+      {
+        "pic": "//gw1.alicdn.com/bao/uploaded/i3/3002799037/TB1tvd8h_nI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_210x210.jpg",
+        "title": "瑞达法考  瑞达学习包2018国家法律职业资格考试视频课件配套资料",
+        "laestP": 988,
+        "pirce": 891.46,
+        "free": "免运费",
+        "sales": 12033,
+        "area": "北京"
+      },
+      {
+        "pic": "//gw1.alicdn.com/bao/uploaded/i3/1057559553/TB1RiqiSFXXXXXgXFXXXXXXXXXX_!!0-item_pic.jpg_210x210.jpg",
+        "title": "铂爵婚纱摄影 厦门三亚深圳青岛大连丽江杭州大理婚纱照拍摄伯爵",
+        "pirce": 11999,
+        "free": "免运费",
+        "sales": 12433,
+        "area": "厦门"
+      },
+      {
+        "pic": "//gw3.alicdn.com/bao/uploaded/i4/2616970884/TB1r.YUdTtYBeNjy1XdXXXXyVXa_!!0-item_pic.jpg_210x210.jpg",
+        "title": "【低至5588疯抢】Apple/苹果iPhone 8 Plus 64G全网通手机苹果8p",
+        "laestP": 8888,
+        "pirce": 6688,
+        "free": "免运费",
+        "sales": 50500,
+        "area": "南京"
+      },
+      {
+        "pic": "//gw3.alicdn.com/bao/uploaded/i1/1097280647/TB1FtmXaIj_B1NjSZFHXXaDWpXa_!!0-item_pic.jpg_210x210.jpg",
+        "title": "京天i5 7500/GTX1050Ti吃鸡电脑主机台式机全套游戏组装机DIY整机",
+        "pirce": 3596,
+        "laestP": 4203,
+        "free": "免运费",
+        "sales": 15398,
+        "area": "武汉"
+      }
+    ],
+    "high": [
+      {
+        "pic": "//gw2.alicdn.com/bao/uploaded/i2/6000000006695/TB26r4_XlnTBKNjSZPfXXbf1XXa_!!0-fleamarket.jpg_210x210.jpg",
+        "title": "【纪念帖，不卖】草莓熊 劳苏 Lotso",
+        "pirce": 99999999.99,
+        "free": "免运费",
+        "sales": 0,
+        "area": "北京"
+      },
+      {
+        "pic": "//gw1.alicdn.com/bao/uploaded/i3/6000000005683/TB2k3dJbL5TBuNjSspmXXaDRVXa_!!0-fleamarket.jpg_210x210.jpg",
+        "title": "【皇皇改娃】Molly2018财神爷新年狗改色喷漆手绘",
+        "pirce": 99999999.99,
+        "free": "免运费",
+        "sales": 0,
+        "area": "深圳"
+      },
+      {
+        "pic": "//gw1.alicdn.com/bao/uploaded/i4/6000000001161/TB2oMxSeval9eJjSZFzXXaITVXa_!!0-fleamarket.jpg_210x210.jpg",
+        "title": "爆橘!",
+        "laestP": 988,
+        "pirce": 99999999.99,
+        "free": "免运费",
+        "sales": 0,
+        "area": "北京"
+      },
+      {
+        "pic": "//gw1.alicdn.com/bao/uploaded/i3/1057559553/TB1RiqiSFXXXXXgXFXXXXXXXXXX_!!0-item_pic.jpg_210x210.jpg",
+        "title": "铂爵婚纱摄影 厦门三亚深圳青岛大连丽江杭州大理婚纱照拍摄伯爵",
+        "pirce": 11999,
+        "free": "免运费",
+        "sales": 12433,
+        "area": "厦门"
+      },
+      {
+        "pic": "//gw3.alicdn.com/bao/uploaded/i4/2616970884/TB1r.YUdTtYBeNjy1XdXXXXyVXa_!!0-item_pic.jpg_210x210.jpg",
+        "title": "【低至5588疯抢】Apple/苹果iPhone 8 Plus 64G全网通手机苹果8p",
+        "laestP": 8888,
+        "pirce": 6688,
+        "free": "免运费",
+        "sales": 50500,
+        "area": "南京"
+      },
+      {
+        "pic": "//gw3.alicdn.com/bao/uploaded/i1/1097280647/TB1FtmXaIj_B1NjSZFHXXaDWpXa_!!0-item_pic.jpg_210x210.jpg",
+        "title": "京天i5 7500/GTX1050Ti吃鸡电脑主机台式机全套游戏组装机DIY整机",
+        "pirce": 3596,
+        "laestP": 4203,
+        "free": "免运费",
+        "sales": 15398,
+        "area": "武汉"
+      }
+    ]
+  },
+  "shopCart": [
+    {
+      "title": "福丫丫足浴工厂店",
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/647685198/TB2ktA9bqSWBuNjSsrbXXa0mVXa_!!647685198.jpg_200x200q50s150.jpg_.webp",
+      "Pirce": 99,
+      "laestP": 29.8,
+      "set": "编辑"
+    },
+    {
+      "title": "蓝莲花数码专营店",
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/2204291639/TB2AWzck0rJ8KJjSspaXXXuKpXa_!!2204291639.jpg_200x200q50s150.jpg_.webp",
+      "Pirce": 25,
+      "laestP": 56.0,
+      "set": "编辑"
+    },
+    {
+      "title": "龙麟宫旗舰店",
+      "img": "https://gw.alicdn.com/bao/uploaded/i3/2522394991/TB2ivQQdjuhSKJjSspdXXc11XXa_!!2522394991.jpg_200x200q50s150.jpg_.webp",
+      "Pirce": 25,
+      "laestP": 12.80,
+      "limit": 20,
+      "set": "编辑"
+    },
+    {
+      "name":"尚品天下食品专营",
+      "title":"越南进口友谊牌tipo面包干曲奇300g*3袋组合牛奶早餐饼干零食",
+      "suBtitle":"tipo曲奇180g*3",
+      "img":"https://gw.alicdn.com/bao/uploaded/i4/299807340/TB13rCGdv5TBuNjSspcXXbnGFXa_!!0-item_pic.jpg_200x200q50s150.jpg_.webp",
+      "Pirce": 3.10,
+      "laestP": 36.80,
+      "limit": 20,
+      "set": "编辑"
+    },
+    {
+      "name": "尚品天下食品专营",
+      "title": "日清出前一丁香港进口方便面袋装港版速食面泡面组合8包8口味批发",
+      "suBtitle": "tipo曲奇180g*3",
+      "img": "https://gw.alicdn.com/bao/uploaded/i2/299807340/TB1Ys1wcFuWBuNjSspnXXX1NVXa_!!0-item_pic.jpg_200x200q50s150.jpg_.webp",
+      "Pirce": 1.10,
+      "laestP": 28.90,
+      "limit": 20,
+      "set": "编辑"
+    },
+    {
+      "name": "mrhu旗舰店",
+      "title": "20枚玫瑰鲜花饼云南特产玫瑰花饼胡先生正宗糕点早餐零食美食1kg",
+      "suBtitle": "tipo曲奇180g*3",
+      "img": "https://gw.alicdn.com/bao/uploaded/i2/299807340/TB1Ys1wcFuWBuNjSspnXXX1NVXa_!!0-item_pic.jpg_200x200q50s150.jpg_.webp",
+      "Pirce": 45.8,
+      "laestP": 39.8,
+      "limit": 20,
+      "set": "编辑"
+    }
+  ],
+  "Settlement":[
+    {
+      "address":"广东省深圳市宝安区西乡流塘阳光花园",
+      "name": "JunePhone",
+      "phone": 18888888
+    },
+    {
+      "cheap": "店铺优惠",
+      "Distribution": "快递:免邮",
+      "safe":"确认退货前可赔付8.88元",
+      "fp": "个人",
+      "raTings": "给卖家流言:"
+    },
+    {
+      "fq":"花呗分期","shop":"匿名购买"
+    }
+  ],
+  "details":{
+    "computed":{
+      "id":"one",
+      "list":"one",
+      "subTitle":"高性价比 酷睿i5七代 2G独显",
+      "words":[
+        {"name":"Lenovo/联想 IdeaPad --120S轻薄便携商务办公游戏学生笔记本电脑"},
+        {"price":"￥2599-4039","scholl":"开学季"},
+        {"pricetxt":"价格:","oldPrice":"¥3358.8-4846.8"},
+        {"apptxt": "天猫app￥2598.00，去购买>"},
+        {"tips": "该商品最高可享3期分期免息"},
+        {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东广州"},
+        {
+          "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"全天猫实物商品通用"
+        },
+        {
+          "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"领取优惠券"
+        },
+        {
+          "jf":"积分",
+          "jftxt": "购买可得259积分",
+          "dot":"•••"
+        },
+        {
+          "bz":"正品保证",
+          "fast":"·极速退款",
+          "seven":"·七天退换",
+          "dot":"•••"
+        },
+        {
+          "selector":"请选择颜色分类/套餐",
+          "dot":"•••"
+        },
+        {
+          "product":"产品参数",
+          "dot":"•••"
+        }
+      ],
+      "Banner":[
+        {"pic":"//img.alicdn.com/imgextra/i2/3547214471/TB1PmNCkAfb_uJjSsrbXXb6bVXa_!!0-item_pic.jpg_760x760Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/3547214471/TB2c9kxc8fM8KJjSZFrXXXSdXXa_!!3547214471.jpg_760x760Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i1/3547214471/TB1biU8i4rI8KJjy0FpXXb5hVXa_!!0-item_pic.jpg_760x760Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/3547214471/TB2JVjtgDlYBeNjSszcXXbwhFXa_!!3547214471.jpg_760x760Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i3/3547214471/TB2obbhaTdYBeNkSmLyXXXfnVXa_!!3547214471.jpg_760x760Q50s50.jpg"}
+      ],
+      "activity":"本店部分商品满1000减300",
+      "area": "广东广州",
+      "receive":[
+        {
+          "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "text":"全天猫实物商品通用",
+          "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "txt": "领取优惠券"
+        }
+      ],
+      "sever":[
+        {
+          "name1":"正品保证",
+          "name2":"极速退款",
+          "name3":"七天退货"
+        }
+      ],
+      "skuList": [
+        {"color":"银灰色", "type": "官方标配","price": 2698,"stock": 100,"img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg"},
+        {"color":"银灰色", "type": "套餐一","price": 3098,"stock": 10,"img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg"},
+        {"color":"银灰色", "type": "套餐二","price": 3298,"stock": 166,"img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg"},
+        {"color":"银灰色", "type": "套餐三","price": 3498,"stock": 266,"img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg"},
+        {"color":"银灰色", "type": "套餐四","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg"},
+        {"color":"银灰色", "type": "套餐五","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg"},
+        {"color":"银色", "type": "官方标配","price": 2898,"stock": 100,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg"},
+        {"color":"银色", "type": "套餐一","price": 3198,"stock": 88,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg"},
+        {"color":"银色", "type": "套餐二","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg"},
+        {"color":"银色", "type": "套餐三","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg"},
+        {"color":"银色", "type": "套餐四","price": 3318,"stock": 66,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg"},
+        {"color":"银色", "type": "套餐五","price": 3498,"stock": 16,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg"},
+        {"color":"黑色", "type": "官方标配","price": 2498,"stock": 98,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2fkbilTlYBeNjSszcXXbwhFXa_!!3547214471.jpg"},
+        {"color":"黑色", "type": "套餐二","price": 2798,"stock": 76,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2fkbilTlYBeNjSszcXXbwhFXa_!!3547214471.jpg"},
+        {"color":"黑色", "type": "套餐一","price": 2998,"stock": 66,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2fkbilTlYBeNjSszcXXbwhFXa_!!3547214471.jpg"},
+        {"color":"黑色", "type": "套餐三","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2fkbilTlYBeNjSszcXXbwhFXa_!!3547214471.jpg"},
+        {"color":"黑色", "type": "套餐四","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2fkbilTlYBeNjSszcXXbwhFXa_!!3547214471.jpg"},
+        {"color":"黑色", "type": "套餐五","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2fkbilTlYBeNjSszcXXbwhFXa_!!3547214471.jpg"}
+      ],
+      "skuInfo":{
+        "price":"¥2669-3999",
+        "stock":0,
+        "Select":"请选择",
+        "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg",
+        "mainTitle":"颜色分类",
+        "subTitle":"套餐类型",
+        "tiTle": "颜色分类",
+        "sTitle": "套餐类型",
+        "installThree": 899,
+        "installSix": 464.85,
+        "installTwelve": 239.09
+       },
+      "moreRating":{
+        "raTings":[
+          {
+            "name":  "鹏***3",
+            "text": "收货了一个星期以后才评价。总体感觉还是可以。性价比高，我就办公用，看看视频。足够用了。",
+            "zptitle":"30天后追评",
+            "zp":"整个来说用了一段时间还是比较顺畅。屏幕的清晰度很满意。目前没有发现问题。",
+            "time": "2018-04-05",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i1/0/TB2HGMKkrGYBuNjy0FoXXciBFXa_!!0-rate.jpg",
+            "pic2":"//img.alicdn.com/bao/uploaded/i3/0/TB2WtBwkL5TBuNjSspmXXaDRVXa_!!0-rate.jpg",
+            "pic3":"//img.alicdn.com/bao/uploaded/i1/0/TB2YUCzjamWBuNjy1XaXXXCbXXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "L***2",
+            "text": "宝贝早收到了，一直没时间评论，用了好久，个人感觉还是不错的，开机只要六秒，美中不足就是待机时间不长，但是电脑也是情有可原了，我买的是套餐六，内存比较大一些，还在徘徊的宝宝们赶快下单吧，你值得拥有哦",
+            "zptitle":"1天后追评",
+            "zp":"安装软件也不错",
+            "time": "2018-04-05",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2Jw7LcFkoBKNjSZFkXXb4tFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "是多少***2",
+            "text": "特意使用了两天才来评价的，说实话性价比挺高，运行cad等没问题，也比较流畅，还玩了下游戏，不卡，运行的cpu温度一般在40左右，总之很满意！第一天拍第二天就到了，给力",
+            "zptitle":"10天后追评",
+            "zp":"第三天了，挺好，没什么问题，散热也挺好的，玩吧游戏去！",
+            "time": "2018-03-05",
+            "type": "官方标配",
+            "color": "黑色",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i1/0/TB2Et8zib1YBuNjSszeXXablFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "吉*****0",
+            "text": "电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 1,
+            "havepic": 1,
+            "color": "黑色",
+            "bq":"官方标配",
+            "pic1": "//img.alicdn.com/bao/uploaded/i2/0/TB2PYWEkHuWBuNjSszgXXb8jVXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i1/0/TB2hYTxkQCWBuNjy0FaXXXUlXXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB28uq1kL9TBuNjy1zbXXXpepXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "t***5",
+            "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 2,
+            "havepic": 1,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2d5kzkQCWBuNjy0FaXXXUlXXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i1/0/TB28q3fkKySBuNjy1zdXXXPxFXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i3/0/TB22w.ikH5YBuNjSspoXXbeNFXa_!!0-rate.jpg "
+          },
+          {
+            "name":  "gg***5",
+            "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "raType": 2,
+            "havepic": 1,
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i2/0/TB2PHxzgYuWBuNjSszgXXb8jVXa_!!0-rate.jpg "
+          },
+          {
+            "name":  "C***5",
+            "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg "
+          },
+          {
+            "name":  "a***5",
+            "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 0,
+            "type": "官方标配",
+            "color": "银灰色"
+          },
+          {
+            "name":  "d***5",
+            "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+            "time": "2018-03-08",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "y***5",
+            "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+            "time": "2018-03-13",
+            "raType": 2,
+            "type": "官方标配",
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "a***5",
+            "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "l***5",
+            "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+            "time": "2018-01-18",
+            "type": "套餐四",
+            "color": "银色",
+            "raType": 4,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "qq***5",
+            "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-28",
+            "type": "套餐四",
+            "color": "黑色",
+            "raType": 4,
+            "havepic": 0
+          },
+          {
+            "name":  "cc***5",
+            "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 4,
+            "havepic": 0
+          }
+        ],
+        "title":[
+          {"name":"全部","count": 0,"commet":[],"active":true},
+          {"name":"追评","count": 0,"commet":[],"active":false},
+          {"name":"有图","count": 0,"commet":[],"active":false},
+          {"name":"便携","count": 0,"commet":[],"active":false},
+          {"name":"服务挺好","count":0,"commet":[],"active":false},
+          {"name":"包装不错","count":0,"commet":[],"active":false},
+          {"name":"性价比","count":0,"commet":[],"active":false}
+        ]
+      },
+      "comment":[
+        {"title":"商品评价(1008)"},
+        {"sever":"服务好(170)","fast":"运行速度快(76)","bx":"便携(55)","bz":"包装挺好(50)","zp":"有赠品(45)","see":"外观极佳(66)"},
+        {
+          "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vGNuOHcWv88YXF-HPmvbM0x0MmQWPCZzv0kyPFleX8gYXHRzMmgWMFNuP07IXm8S&width=70&height=70&type=sns",
+          "name": "吉***0",
+          "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+        },
+        {"text":"电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦"},
+        {"timee":"2018-03-22","color":"颜色分类:银灰色","type":"套餐类型:官方标配"},
+        {"more":"查看更多评价"}
+      ],
+      "logos":[
+        {
+          "logo": "//img.alicdn.com/imgextra//cb/5c/TB1t0aei3nH8KJjSspcSuv3QFXa.jpg_120x120Q50s50.jpg_.webp",
+          "title": "联想网新专卖店",
+          "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+        }
+      ],
+      "sellers":[
+        {
+          "pic":"//img.alicdn.com/imgextra//cb/5c/TB1t0aei3nH8KJjSspcSuv3QFXa.jpg_120x120Q50s50.jpg",
+          "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+          "title": "联想网新专卖店"
+        },
+        {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.8"},
+        {
+          "all":"全部商品",
+          "shopping":"进入店铺"
+        }
+      ],
+      "sees":[
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+          "pirce":2599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+          "pirce": 3599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+          "pirce": 2399
+        }
+      ],
+      "bBanner":{
+        "ones":[
+          {
+            "img": "//img.alicdn.com/bao/uploaded/TB1.T3lguuSBuNjSsplXXbe8pXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title": "Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+            "price": "¥3718.8",
+            "lprice": "¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB132CPebGYBuNjy0FoXXciBFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+            "price":"¥4438.8",
+            "lprice":"¥3599"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1iaVldb1YBuNjSszhXXcUsFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 120S-轻薄便携商务学生256G固态笔记本电脑",
+            "price":"¥3838.8",
+            "lprice":"¥2799"
+          }
+        ],
+        "two":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+            "price":"¥3358.8",
+            "lprice":"¥2599"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB10brPgDJYBeNjy1zeXXahzVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 110-i7独显游戏商务办公学生轻薄笔记本电脑",
+            "price":"¥2799",
+            "lprice":"¥4099"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+            "price":"¥3899",
+            "lprice":"¥2899"
+          }
+        ],
+        "three":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+            "price":"¥5999",
+            "lprice":"¥4999"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+            "price":"¥5999",
+            "lprice":"¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+            "price":"¥8999",
+            "lprice":"¥2899"
+          }
+        ],
+        "four":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+            "price":"¥6808",
+            "lprice":"¥5199"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+            "price":"¥5999",
+            "lprice":"¥4299"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+            "price":"¥8999",
+            "lprice":"¥3599"
+          }
+        ]
+      },
+      "detailed":[
+        {"img":"//img.alicdn.com/imgextra/i3/3547214471/TB2LGjyXYZnBKNjSZFGXXbt3FXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/3547214471/TB2dUVWhb5YBuNjSspoXXbeNFXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/3547214471/TB2yXmUdBfM8KJjSZFOXXXr5XXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/3547214471/TB2eFKejNTI8KJjSspiXXbM4FXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/3547214471/TB2lKu3dpHM8KJjSZFwXXcibXXa_!!3547214471.jpg_2200x2200Q90s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/3547214471/TB20O5EjS_I8KJjy0FoXXaFnVXa_!!3547214471.jpg_2200x2200Q90s50.jpg"}
+      ]
+    },
+    "computedtwo":{
+      "list":"two",
+      "id":"two",
+      "words":[
+        {"name":"送显示器四核独显游戏组装电脑主机吃鸡电脑LOL主机台式全套整机"},
+        {"price":"￥1198-3998","scholl":"爆款促销"},
+        {"pricetxt":"价格:","oldPrice":"¥3358.8-4846.8"},
+        {"apptxt": "天猫app￥2598.00，去购买>"},
+        {"tips": "该商品最高可享3期分期免息"},
+        {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东广州"},
+        {
+          "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"全天猫实物商品通用"
+        },
+        {
+          "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"领取优惠券"
+        },
+        {
+          "jf":"积分",
+          "jftxt": "购买可得259积分",
+          "dot":"•••"
+        },
+        {
+          "bz":"正品保证",
+          "fast":"·极速退款",
+          "seven":"·七天退换",
+          "dot":"•••"
+        },
+        {
+          "selector":"请选择颜色分类/套餐",
+          "dot":"•••"
+        },
+        {
+          "product":"产品参数",
+          "dot":"•••"
+        }
+      ],
+      "Banner":[
+        {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2IU_uflLN8KJjSZPhXXc.spXa_!!56513501.jpg_760x760q50s150.jpg"},
+        {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2FyrsiNrI8KJjy0FpXXb5hVXa_!!56513501.jpg_760x760q50s150.jpg"},
+        {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2qPISfgjN8KJjSZFCXXb3GpXa_!!56513501.jpg_760x760q50s150.jpg"},
+        {"pic":"//gw.alicdn.com/imgextra/i2/56513501/TB2KnhloMLD8KJjSszeXXaGRpXa_!!56513501.jpg_760x760q50s150.jpg"},
+        {"pic":"//gw.alicdn.com/imgextra/i4/56513501/TB2d8sSfXYM8KJjSZFuXXcf7FXa_!!56513501.jpg_760x760q50s150.jpg"}
+      ],
+      "subTitle":"吃鸡流畅 酷睿i5七代 4G独显",
+      "area": "广东广州",
+      "receive":[
+        {
+          "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "text":"全天猫实物商品通用",
+          "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "txt": "领取优惠券"
+        }
+      ],
+      "sever":[
+        {
+          "name1":"正品保证",
+          "name2":"极速退款",
+          "name3":"七天退货"
+        }
+      ],
+      "selects":{
+        "type":{
+          "grays":{
+            "color":"银灰色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "black":{
+            "color":"黑色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "gray":{
+            "color":"银色",
+            "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2899",
+                "stock":"46"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3199",
+                "stock":"32"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥3399",
+                "stock":"26"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3739",
+                "stock":"27"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3599",
+                "stock":"26"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3939",
+                "stock":"28"
+              }
+            }
+          }
+        }
+      },
+      "moreRating":{
+        "raTings":[
+          {
+            "name":  "h***3",
+            "text": "食鸡没有问题非常好好好好",
+            "zptitle":"30天后追评",
+            "zp":"整个来说用了一段时间还是比较顺畅。屏幕的清晰度很满意。目前没有发现问题。",
+            "time": "2018-04-05",
+            "type": "内存容量:8GB",
+            "color": "硬盘容量2TB",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i4/0/TB2c2gpjXuWBuNjSspnXXX1NVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "L***2",
+            "text": "宝贝早收到了，一直没时间评论，用了好久，个人感觉还是不错的，开机只要六秒，美中不足就是待机时间不长，但是电脑也是情有可原了，我买的是套餐六，内存比较大一些，还在徘徊的宝宝们赶快下单吧，你值得拥有哦",
+            "zptitle":"1天后追评",
+            "zp":"安装软件也不错",
+            "time": "2018-04-05",
+            "type": "内存容量:8GB",
+            "color": "硬盘容量:160GB",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i4/0/TB2Gc0NkxGYBuNjy0FnXXX5lpXa_!!0-rate.jpg",
+            "pic2":"//img.alicdn.com/bao/uploaded/i4/0/TB2P_PWjL9TBuNjy0FcXXbeiFXa_!!0-rate.jpg",
+            "pic3":"//img.alicdn.com/bao/uploaded/i1/0/TB2xbY4jQ9WBuNjSspeXXaz5VXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "是多少***2",
+            "text": "特意使用了两天才来评价的，说实话性价比挺高，运行cad等没问题，也比较流畅，还玩了下游戏，不卡，运行的cpu温度一般在40左右，总之很满意！第一天拍第二天就到了，给力",
+            "zptitle":"10天后追评",
+            "zp":"第三天了，挺好，没什么问题，散热也挺好的，玩吧游戏去！",
+            "time": "2018-03-05",
+            "type": "内存容量:8GB",
+            "color": "硬盘容量:240GB",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i1/0/TB2wFx8jgmTBuNjy1XbXXaMrVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "吉*****0",
+            "text": "电脑外型十分满意，轻薄时尚。上一台电脑就是联想，用了六七年，非常相信联想这个牌子，所以这次换电脑还是选择联想。事实证明不负所望，完全满足了我的需求。自己买了贴膜贴上去，很喜欢啦啦啦啦",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 1,
+            "havepic": 1,
+            "color": "黑色",
+            "bq":"官方标配",
+            "pic3": "//img.alicdn.com/bao/uploaded/i1/0/TB24GSBchuTBuNkHFNRXXc9qpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "t***5",
+            "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 2,
+            "havepic": 1,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "gg***5",
+            "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "raType": 2,
+            "havepic": 1,
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "C***5",
+            "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 0,
+            "type": "官方标配",
+            "color": "银灰色"
+          },
+          {
+            "name":  "d***5",
+            "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+            "time": "2018-03-08",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "y***5",
+            "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+            "time": "2018-03-13",
+            "raType": 2,
+            "type": "官方标配",
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "a***5",
+            "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "l***5",
+            "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 3,
+            "havepic": 0
+          }
+        ],
+        "title":[
+          {"name":"全部","count": 0,"commet":[],"active":true},
+          {"name":"追评","count": 0,"commet":[],"active":false},
+          {"name":"有图","count": 0,"commet":[],"active":false},
+          {"name":"便携","count": 0,"commet":[],"active":false},
+          {"name":"服务挺好","count":0,"commet":[],"active":false},
+          {"name":"包装不错","count":0,"commet":[],"active":false},
+          {"name":"性价比","count":0,"commet":[],"active":false}
+        ]
+      },
+      "comment":[
+        {"title":"商品评价(7188)"},
+        {"sever":"服务好(170)","fast":"运行速度快(76)","bx":"跑分高(55)","bz":"包装挺好(50)","zp":"屏幕大(45)","see":"外观极佳(66)"},
+        {
+          "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vGNuOHcWv88YXF-HPmvbM0x0MmQWPCZzv0kyPFleX8gYXHRzMmgWMFNuP07IXm8S&width=70&height=70&type=sns",
+          "name": "吧***0",
+          "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+        },
+        {"text":"不错。运行速度很好，玩游戏毫无压力，吃鸡和lol都没问题，送的鼠标键盘也是挺好的。曲面屏幕看上去很大气，谢谢卖家耐心的答复，推荐给大家，性价比很高哦。"},
+        {"timee":"2018-03-22","color":"内存容量:16GB","type":"套餐类型:500GB"},
+        {"more":"查看更多评价"}
+      ],
+      "skuList": [
+        {"color":"8GB", "type": "1TB","price": 2198,"stock": 10,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"8GB", "type": "2TB","price": 2698,"stock": 5,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"8GB", "type": "3TB","price": 3298,"stock": 16,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"8GB", "type": "500GB","price": 0,"stock": 0,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"16GB", "type": "1TB","price": 2698,"stock": 15,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"16GB", "type": "2TB","price": 2898,"stock": 25,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"16GB", "type": "3TB","price": 0,"stock": 0,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"16GB", "type": "500GB","price": 0,"stock": 0,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"32GB", "type": "1TB","price": 2898,"stock": 15,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"32GB", "type": "2TB","price": 0,"stock": 0,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"32GB", "type": "3TB","price": 0,"stock": 0,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"},
+        {"color":"32GB", "type": "500GB","price": 1998,"stock": 5,"img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg"}
+      ],
+      "skuInfo":{
+        "price":"¥2199-3199",
+        "stock":0,
+        "Select":"请选择",
+        "img":"//img.alicdn.com/imgextra/i3/1769951339/TB2ksjAlxWYBuNjy1zkXXXGGpXa_!!1769951339.jpg_200x200Q50s50.jpg",
+        "mainTitle":"内存容量",
+        "subTitle":"硬盘容量",
+        "tiTle": "内存容量",
+        "sTitle": "硬盘容量",
+        "installThree": 899,
+        "installSix": 464.85,
+        "installTwelve": 239.09,
+        "installthreeActive": false,
+        "installsixActive": false,
+        "installtwelveActive": false
+      },
+      "logos":[
+        {
+          "logo": "//img.alicdn.com/imgextra//1b/9f/TB1SBNXSpXXXXb9apXXSutbFXXX.jpg",
+          "title": "华南电竞联盟",
+          "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+        }
+      ],
+      "sellers":[
+        {
+          "pic":"//img.alicdn.com/imgextra//1b/9f/TB1SBNXSpXXXXb9apXXSutbFXXX.jpg",
+          "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+          "title": "华南电竞联盟"
+        },
+        {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.8"},
+        {
+          "all":"全部商品",
+          "shopping":"进入店铺"
+        }
+      ],
+      "sees":[
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+          "pirce":2599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+          "pirce": 3599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+          "pirce": 2399
+        }
+      ],
+      "bBanner":{
+        "ones":[
+          {
+            "img": "//gw.alicdn.com/bao/uploaded/i3/56513501/TB2j8cnoBfH8KJjy1XbXXbLdXXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title": "跪求高薪工作朝九晚六五险一金有美女陪写代码的工作,周末双休啊啊我去！",
+            "price": "¥3718.8",
+            "lprice": "¥2799"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB21wmCjeuSBuNjSsziXXbq8pXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title":"啊啊啊啊啊改死我啦我去你妹你的",
+            "price":"¥4438.8",
+            "lprice":"¥3599"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB21wmCjeuSBuNjSsziXXbq8pXa_!!56513501.jpg_640x640q50s150.jpg",
+            "title":"电脑游戏耳机头戴式电竞绝地求生吃鸡耳麦台式话筒带麦",
+            "price":"¥3838.8",
+            "lprice":"¥2799"
+          }
+        ],
+        "two":[
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i3/56513501/TB2d5H9gDtYBeNjy1XdXXXXyVXa_!!56513501.jpg_640x640q50s150.jpg",
+            "title":"送显示器i5 8400/1060吃鸡游戏组装台式电脑主机绝地求生全套整机",
+            "price":"¥48888",
+            "lprice":"¥69999"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB25c2TaHSYBuNjSspfXXcZCpXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title":"绝地求生i7 7700/GTX1060台式吃鸡电脑主机全套DIY高端游戏组装机",
+            "price":"¥289999",
+            "lprice":"¥4099"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+            "price":"¥3899",
+            "lprice":"¥2899"
+          }
+        ],
+        "three":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+            "price":"¥5999",
+            "lprice":"¥4999"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+            "price":"¥5999",
+            "lprice":"¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+            "price":"¥8999",
+            "lprice":"¥2899"
+          }
+        ],
+        "four":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+            "price":"¥6808",
+            "lprice":"¥5199"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+            "price":"¥5999",
+            "lprice":"¥4299"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+            "price":"¥8999",
+            "lprice":"¥3599"
+          }
+        ]
+      },
+      "detailed":[
+        {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2LtPQcbSYBuNjSspiXXXNzpXa_!!56513501.jpg_970x970q50s150.jpg"},
+        {"img":"//gw.alicdn.com/imgextra/i3/56513501/TB2hXCjhv1TBuNjy0FjXXajyXXa_!!56513501.jpg_970x970q50s150.jpg"},
+        {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2O0ODhx9YBuNjy0FfXXXIsVXa_!!56513501.jpg_970x970q50s150.jpg"},
+        {"img":"//gw.alicdn.com/imgextra/i3/56513501/TB2m02ZcgaTBuNjSszfXXXgfpXa_!!56513501.jpg_970x970q50s150.jpg"},
+        {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2GkA8iJzJ8KJjSspkXXbF7VXa_!!56513501.jpg_970x970q50s150.jpg"},
+        {"img":"//gw.alicdn.com/imgextra/i4/56513501/TB2puU1iNTI8KJjSspiXXbM4FXa_!!56513501.jpg_970x970q50s150.jpg"}
+      ]
+    },
+    "iphoneX":{
+      "id":"three",
+      "words":[
+        {"name":"【12期免息】Apple/苹果iPhone X  全网通4G手机 苹果10 苹果X"},
+        {"price":"￥8288-9488","scholl":"狂欢大促"},
+        {"pricetxt":"价格:","oldPrice":"¥1011-1022"},
+        {"apptxt": "天猫app￥0.00，快去抢啊啊啊啊啊"},
+        {"tips": "该商品最高可享3期分期免息"},
+        {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
+        {
+          "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"全天猫实物商品通用"
+        },
+        {
+          "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"领取优惠券"
+        },
+        {
+          "jf":"积分",
+          "jftxt": "购买可得259积分",
+          "dot":"•••"
+        },
+        {
+          "bz":"正品保证",
+          "fast":"·极速退款",
+          "seven":"·七天退换",
+          "dot":"•••"
+        },
+        {
+          "selector":"请选择颜色分类/套餐",
+          "dot":"•••"
+        },
+        {
+          "product":"产品参数",
+          "dot":"•••"
+        }
+      ],
+      "Banner":[
+        {"pic":"//img.alicdn.com/imgextra/i1/2616970884/TB1P.xXk4SYBuNjSspjXXX73VXa_!!0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/2616970884/TB2IU3OdkOWBuNjSsppXXXPgpXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i4/2616970884/TB29UkDmPihSKJjy0FlXXadEXXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/2616970884/TB2mzRTq8USMeJjy1zjXXc0dXXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i1/2616970884/TB2GVikhDJYBeNjy1zeXXahzVXa_!!2616970884.png_720x720Q50s50.jpg"}
+      ],
+      "area": "广东深圳",
+      "receive":[
+        {
+          "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "text":"全天猫实物商品通用",
+          "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "txt": "领取优惠券"
+        }
+      ],
+      "sever":[
+        {
+          "name1":"正品保证",
+          "name2":"极速退款",
+          "name3":"七天退货"
+        }
+      ],
+      "skuList": [
+        {"color":"深空灰", "type": "64GB","price": 5298,"stock": 5,"img":"//gw.alicdn.com/bao/uploaded/i5/TB1cIv3qHsTMeJjy1zelmQOCVXa_115003.jpg_200x200Q50s50.jpg"},
+        {"color":"深空灰", "type": "128GB","price": 5698,"stock": 6,"img":"//gw.alicdn.com/bao/uploaded/i5/TB1cIv3qHsTMeJjy1zelmQOCVXa_115003.jpg_200x200Q50s50.jpg"},
+        {"color":"深空灰", "type": "256GB","price": 5898,"stock": 7,"img":"//gw.alicdn.com/bao/uploaded/i5/TB1cIv3qHsTMeJjy1zelmQOCVXa_115003.jpg_200x200Q50s50.jpg"},
+        {"color":"银色", "type": "64GB","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i6/TB1Yakhl2NNTKJjSspclmP4KVXa_115003.jpg_200x200Q50s50.jpg"},
+        {"color":"银色", "type": "128GB","price": 5498,"stock": 10,"img":"//gw.alicdn.com/bao/uploaded/i6/TB1Yakhl2NNTKJjSspclmP4KVXa_115003.jpg_200x200Q50s50.jpg"},
+        {"color":"银色", "type": "256GB","price": 5698,"stock": 10,"img":"//gw.alicdn.com/bao/uploaded/i6/TB1Yakhl2NNTKJjSspclmP4KVXa_115003.jpg_200x200Q50s50.jpg"}
+      ],
+      "subTitle":"正品包退换 人脸识别 支持验证",
+      "skuInfo":{
+        "price":"¥8288-9488",
+        "stock":0,
+        "Select":"请选择",
+        "img":"//img.alicdn.com/imgextra/i1/1669409267/TB22kG2lStYBeNjSspkXXbU8VXa_!!1669409267.jpg_760x760Q50s50.jpg",
+        "mainTitle":"颜色分类",
+        "subTitle":"内存容量",
+        "tiTle": "颜色分类",
+        "sTitle": "内存容量",
+        "installThree": 1799,
+        "installSix": 888.8,
+        "installTwelve": 666.6
+      },
+      "selects":{
+        "type":{
+          "grays":{
+            "color":"银灰色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "black":{
+            "color":"黑色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "gray":{
+            "color":"银色",
+            "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2899",
+                "stock":"46"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3199",
+                "stock":"32"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥3399",
+                "stock":"26"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3739",
+                "stock":"27"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3599",
+                "stock":"26"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3939",
+                "stock":"28"
+              }
+            }
+          }
+        }
+      },
+      "moreRating":{
+        "raTings":[
+          {
+            "name":  "h***3",
+            "text": "很奈斯 ，一直用苹果再换安卓还是换回苹果 跟一波风 。质量非常好，与卖家描述的完全一致，非常满意,真的很喜欢，完全超出期望值，发货速度非常快，包装非常仔细、严实，物流公司服务态度很好，运送速度很快，很满意的一次购物",
+            "zptitle":"30天后追评",
+            "zp":"整个来说用了一段时间还是比较顺畅。屏幕的清晰度很满意。目前没有发现问题。",
+            "time": "2018-04-05",
+            "type": "网络类型：无需合约版",
+            "color": "机身颜色：深空灰色",
+            "type2":"套餐类型:官方标配",
+            "rl": "存储容量256GB",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2Vl0HkXGWBuNjy0FbXXb4sXXa_!!0-rate.jpg",
+            "pic2":"//img.alicdn.com/bao/uploaded/i1/0/TB2TU1gkkSWBuNjSszdXXbeSpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "L***2",
+            "text": "没有home键一开始不习惯，现在完全习惯了，就是人脸识别没有指纹识别方便。相机人像拍摄特别好用",
+            "zptitle":"1天后追评",
+            "zp":"系统非常棒",
+            "time": "2018-04-05",
+            "type": "网络类型：无需合约版",
+            "color": "机身颜色：玫瑰金色",
+            "type2":"套餐类型:官方标配",
+            "rl": "存储容量256GB",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i2/0/TB2lFeckKuSBuNjSsziXXbq8pXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "sadas***2",
+            "text": "各方面都很满意，把玩很顺畅，faceid很好用，屏幕很鲜艳！",
+            "zptitle":"10天后追评",
+            "time": "2018-03-05",
+            "type": "网络类型：无需合约版",
+            "color": "机身颜色：玫瑰金色",
+            "type2":"套餐类型:官方标配",
+            "rl": "存储容量256GB",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i2/0/TB2OdHrkntYBeNjy1XdXXXXyVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "吉*****0",
+            "text": "速度很快 手机也挺好用 喜欢 一直很信赖",
+            "time": "2018-02-13",
+            "type": "网络类型：无需合约版",
+            "color": "机身颜色：银色",
+            "type2":"套餐类型:官方标配",
+            "rl": "存储容量256GB",
+            "raType": 1,
+            "havepic": 1,
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2avfrjb1YBuNjSszeXXablFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i1/0/TB2hIYyjXOWBuNjy0FiXXXFxVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "t***5",
+            "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 2,
+            "havepic": 1,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "gg***5",
+            "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "raType": 2,
+            "havepic": 1,
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "C***5",
+            "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 0,
+            "type": "官方标配",
+            "color": "银灰色"
+          },
+          {
+            "name":  "d***5",
+            "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+            "time": "2018-03-08",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "y***5",
+            "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+            "time": "2018-03-13",
+            "raType": 2,
+            "type": "官方标配",
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "a***5",
+            "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "l***5",
+            "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+            "time": "2018-01-18",
+            "type": "套餐四",
+            "color": "银色",
+            "raType": 4,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "qq***5",
+            "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-28",
+            "type": "套餐四",
+            "color": "黑色",
+            "raType": 4,
+            "havepic": 0
+          },
+          {
+            "name":  "cc***5",
+            "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 4,
+            "havepic": 0
+          }
+        ],
+        "title":[
+          {"name":"全部","count": 0,"commet":[],"active":true},
+          {"name":"追评","count": 0,"commet":[],"active":false},
+          {"name":"有图","count": 0,"commet":[],"active":false},
+          {"name":"正品","count": 0,"commet":[],"active":false},
+          {"name":"手机不错","count":0,"commet":[],"active":false},
+          {"name":"手感不错","count":0,"commet":[],"active":false},
+          {"name":"外观不错","count":0,"commet":[],"active":false}
+        ]
+      },
+      "comment":[
+        {"title":"商品评价(8089)"},
+        {"sever":"物流快(1777)","fast":"运行速度快(776)","bx":"便携(666)","bz":"包装挺好(777)","zp":"性能很好(888)","see":"正品(666)"},
+        {
+          "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vFkSPFHuXH*evF8LPmHSXHRhvFlIv0*-v0QyPHkYvk*zv8cGOFcWvCMePCQbvCI4&width=70&height=70&type=sns",
+          "name": "o***0",
+          "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+        },
+        {"text":"很奈斯 ，一直用苹果再换安卓还是换回苹果 跟一波风 。质量非常好，与卖家描述的完全一致，非常满意,真的很喜欢，完全超出期望值，发货速度非常快，包装非常仔细、严实，物流公司服务态度很好，运送速度很快，很满意的一次购物"},
+        {"timee":"2018-04-10","color":"内存容量:256GB","type":"套餐类型:深空灰"},
+        {"more":"查看更多评价"}
+      ],
+      "logos":[
+        {
+          "logo": "//img.alicdn.com/imgextra/i1/2616970884/TB2RdcVef5TBuNjSspcXXbnGFXa-2616970884.jpg_120x120Q50s50.jpg",
+          "title": "苏宁易购官方旗舰店",
+          "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+        }
+      ],
+      "sellers":[
+        {
+          "pic":"//img.alicdn.com/imgextra/i1/2616970884/TB2RdcVef5TBuNjSspcXXbnGFXa-2616970884.jpg_120x120Q50s50",
+          "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+          "title": "苏宁易购官方旗舰店"
+        },
+        {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.8"},
+        {
+          "all":"全部商品",
+          "shopping":"进入店铺"
+        }
+      ],
+      "sees":[
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+          "pirce":2599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+          "pirce": 3599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+          "pirce": 2399
+        }
+      ],
+      "bBanner":{
+        "ones":[
+          {
+            "img": "//img.alicdn.com/bao/uploaded/TB1VbD9kMaTBuNjSszfXXXgfpXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title": "跪求高薪工作朝九晚六五险一金有美女陪写代码的工作,周末双休啊啊我去！",
+            "price": "¥3718.8",
+            "lprice": "¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1DHPNkVGWBuNjy0FbXXb4sXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"求个好公司收留我吧^_^",
+            "price":"¥4438.8",
+            "lprice":"¥3599"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1SVs1kQCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title":"【低至4488元】Apple/苹果 iPhone 8 64G 全网通4G手机 苹果8",
+            "price":"¥3838.8",
+            "lprice":"¥2799"
+          }
+        ],
+        "two":[
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i3/56513501/TB2d5H9gDtYBeNjy1XdXXXXyVXa_!!56513501.jpg_640x640q50s150.jpg",
+            "title":"送显示器i5 8400/1060吃鸡游戏组装台式电脑主机绝地求生全套整机",
+            "price":"¥48888",
+            "lprice":"¥69999"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB25c2TaHSYBuNjSspfXXcZCpXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title":"绝地求生i7 7700/GTX1060台式吃鸡电脑主机全套DIY高端游戏组装机",
+            "price":"¥289999",
+            "lprice":"¥4099"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+            "price":"¥3899",
+            "lprice":"¥2899"
+          }
+        ],
+        "three":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+            "price":"¥5999",
+            "lprice":"¥4999"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+            "price":"¥5999",
+            "lprice":"¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+            "price":"¥8999",
+            "lprice":"¥2899"
+          }
+        ],
+        "four":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+            "price":"¥6808",
+            "lprice":"¥5199"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+            "price":"¥5999",
+            "lprice":"¥4299"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+            "price":"¥8999",
+            "lprice":"¥3599"
+          }
+        ]
+      },
+      "detailed":[
+        {"img":"//img.alicdn.com/imgextra/i2/2616970884/TB28OdmkrSYBuNjSspiXXXNzpXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i1/2616970884/TB2z_Zgh9tYBeNjSspkXXbU8VXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i4/2616970884/TB29fRlmfBNTKJjSszcXXbO2VXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/2616970884/TB2adURmGmgSKJjSspiXXXyJFXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i4/2616970884/TB2pQommPihSKJjy0FiXXcuiFXa_!!2616970884.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/2616970884/TB2QzcWlhrI8KJjy0FpXXb5hVXa-2616970884.jpg_720x720Q50s50.jpg"}
+      ]
+    },
+    "adidas":{
+      "id":"four",
+      "subTitle":"舒适运动 弹性好 吸汗快",
+      "words":[
+        {"name":"adidas/阿迪达斯 三叶草 女子大LOGO紧身裤 黑 AJ8081"},
+        {"price":"￥139","scholl":"狂欢大促"},
+        {"pricetxt":"价格:","oldPrice":"¥299-399"},
+        {"apptxt": "天猫app￥0.00，快去抢啊啊啊啊啊"},
+        {"tips": "该商品最高可享3期分期免息"},
+        {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
+        {
+          "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"全天猫实物商品通用"
+        },
+        {
+          "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"领取优惠券"
+        },
+        {
+          "jf":"积分",
+          "jftxt": "购买可得259积分",
+          "dot":"•••"
+        },
+        {
+          "bz":"正品保证",
+          "fast":"·极速退款",
+          "seven":"·七天退换",
+          "dot":"•••"
+        },
+        {
+          "selector":"请选择颜色分类/套餐",
+          "dot":"•••"
+        },
+        {
+          "product":"产品参数",
+          "dot":"•••"
+        }
+      ],
+      "Banner":[
+        {"pic":"//img.alicdn.com/imgextra/i2/446338500/TB2_PF7lxGYBuNjy0FnXXX5lpXa_!!446338500-0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/446338500/TB21PIfc8smBKNjSZFFXXcT9VXa_!!446338500.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/446338500/TB2TBs9lk9WBuNjSspeXXaz5VXa_!!446338500.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i3/446338500/TB2x0k9lkOWBuNjSsppXXXPgpXa_!!446338500.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i3/446338500/TB2iPx7lxGYBuNjy0FnXXX5lpXa_!!446338500.jpg_720x720Q50s50.jpg"}
+      ],
+      "area": "广东深圳",
+      "receive":[
+        {
+          "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "text":"全天猫实物商品通用",
+          "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "txt": "领取优惠券"
+        }
+      ],
+      "sever":[
+        {
+          "name1":"正品保证",
+          "name2":"极速退款",
+          "name3":"七天退货"
+        }
+      ],
+      "selects":{
+        "type":{
+          "grays":{
+            "color":"银灰色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "black":{
+            "color":"黑色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "gray":{
+            "color":"银色",
+            "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2899",
+                "stock":"46"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3199",
+                "stock":"32"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥3399",
+                "stock":"26"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3739",
+                "stock":"27"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3599",
+                "stock":"26"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3939",
+                "stock":"28"
+              }
+            }
+          }
+        }
+      },
+      "skuList": [
+        {"color":"如图", "type": "32","price": 139,"stock": 1225,"img":"//img.alicdn.com/imgextra/i2/446338500/TB2_PF7lxGYBuNjy0FnXXX5lpXa_!!446338500-0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"color":"如图", "type": "34","price": 139,"stock": 1225,"img":"//img.alicdn.com/imgextra/i2/446338500/TB2_PF7lxGYBuNjy0FnXXX5lpXa_!!446338500-0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"color":"如图", "type": "36","price": 139,"stock": 3351,"img":"//img.alicdn.com/imgextra/i2/446338500/TB2_PF7lxGYBuNjy0FnXXX5lpXa_!!446338500-0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"color":"如图", "type": "38","price": 0,"stock": 0,"img":"//img.alicdn.com/imgextra/i2/446338500/TB2_PF7lxGYBuNjy0FnXXX5lpXa_!!446338500-0-item_pic.jpg_720x720Q50s50.jpg"}
+      ],
+      "skuInfo":{
+        "price":"¥139",
+        "stock":0,
+        "Select":"请选择",
+        "img":"//img.alicdn.com/imgextra/i2/446338500/TB2_PF7lxGYBuNjy0FnXXX5lpXa_!!446338500-0-item_pic.jpg_720x720Q50s50.jpg",
+        "mainTitle":"颜色分类",
+        "subTitle":"尺码",
+        "tiTle": "颜色分类",
+        "sTitle": "尺码",
+        "installThree": 1799,
+        "installSix": 888.8,
+        "installTwelve": 666.6
+      },
+      "moreRating":{
+        "raTings":[
+          {
+            "name":  "h***3",
+            "text": "东西很好，身高165体重46公斤，穿着很合适，材质很好，稍微有点宽松，穿着更加自在，不会嘞的太尴尬，之前买的两天穿了一天都褪色了，希望这次买的两条别褪色，各方面都很好，客服推荐的尺码也是特别的准，担心都是多余的，喜欢的可以拍，各方面都蛮好的",
+            "zptitle":"30天后追评",
+            "zp":"女神节活动价入的，大写的满意啊！黑色配logo确实好看，显腿细，大小也刚合适，虽然不具备收紧功能，但做做普通的运动和训练足够了。平时出街也能穿。身高160，55kg，大小正好，供参考。",
+            "time": "2018-04-05",
+            "type": "官方标配",
+            "color": "颜色分类如图",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i4/0/TB2qTPQkk9WBuNjSspeXXaz5VXa_!!0-rate.jpg",
+            "pic2":"//img.alicdn.com/bao/uploaded/i4/0/TB2fK.okhSYBuNjSspjXXX73VXa_!!0-rate.jpg",
+            "pic3":"//img.alicdn.com/bao/uploaded/i2/0/TB221rLkf9TBuNjy0FcXXbeiFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "L***2",
+            "text": "还行，包装有点烂，平常穿彪马比较多，其他不说，就包装来讲，差太远，就一个破塑料袋，一张皱巴巴的纸~料子会有一点掉色，也不是纯棉，有点硬，日常穿足够。",
+            "zptitle":"1天后追评",
+            "zp":"服装很好用很喜欢",
+            "time": "2018-04-05",
+            "type": "官方标配",
+            "color": "颜色分类:如图",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i2/0/TB2V39VkntYBeNjy1XdXXXXyVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "廖***2",
+            "text": "棉的有点厚，现在穿18度左右挺合适的，跟nike那款左小腿上有logo的那款整体感觉布料都是一样的，弹性很大，买了两条，有一条光面的叫TF long tight(第三张图)什么的弹性真的太差了，就退了，这条很满意，喜欢，快递满分",
+            "zptitle":"10天后追评",
+            "zp":"总体来说还不错穿起来很舒服",
+            "time": "2018-03-05",
+            "type": "官方标配",
+            "color": "黑色",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i2/0/TB2Qa0gd49YBuNjy0FfXXXIsVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "吉*****0",
+            "text": "挺好的，挺便宜～是正品，有点薄，值得购买，活动时120购买的，本人身高167体重118，购买的38码，提供给各位小仙女参考",
+            "time": "2018-03-13",
+            "type": "颜色分类如图",
+            "raType": 1,
+            "havepic": 1,
+            "color": "尺码:38",
+            "bq":"官方标配",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2.6tfcYZnBKNjSZFrXXaRLFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i3/0/TB2PtVccVooBKNjSZFPXXXa2XXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "t***5",
+            "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 2,
+            "havepic": 1,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "gg***5",
+            "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "raType": 2,
+            "havepic": 1,
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "C***5",
+            "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 0,
+            "type": "官方标配",
+            "color": "银灰色"
+          },
+          {
+            "name":  "d***5",
+            "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+            "time": "2018-03-08",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "y***5",
+            "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+            "time": "2018-03-13",
+            "raType": 2,
+            "type": "官方标配",
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "a***5",
+            "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "l***5",
+            "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+            "time": "2018-01-18",
+            "type": "套餐四",
+            "color": "银色",
+            "raType": 4,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "qq***5",
+            "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-28",
+            "type": "套餐四",
+            "color": "黑色",
+            "raType": 4,
+            "havepic": 0
+          },
+          {
+            "name":  "cc***5",
+            "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 4,
+            "havepic": 0
+          }
+        ],
+        "title":[
+          {"name":"全部","count": 0,"commet":[],"active":true},
+          {"name":"追评","count": 0,"commet":[],"active":false},
+          {"name":"有图","count": 0,"commet":[],"active":false},
+          {"name":"正品","count": 0,"commet":[],"active":false},
+          {"name":"穿着效果不错","count":0,"commet":[],"active":false},
+          {"name":"质量很好","count":0,"commet":[],"active":false},
+          {"name":"发货快","count":0,"commet":[],"active":false}
+        ]
+      },
+      "comment":[
+        {"title":"商品评价(8089)"},
+        {"sever":"质量很好(870)","fast":"穿着效果不错(786)","bx":"裤子不错(565)","bz":"服务挺好(520)","zp":"有赠品(456)","see":"正品(666)"},
+        {
+          "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vFkSPFHuXH*evF8LPmHSXmH0MGg4MCPHvFQGvFhzMHZHP0PeM87eMF7zXmPHMmQY&width=70&height=70&type=sns",
+          "name": "X***3",
+          "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+        },
+        {"text":"顺丰快递好评 杠杠的 除了感觉黑色不是正黑 然后不是速干料是全棉的 穿穿会变形，别的没毛病，很划算，是正品，上身效果也很不错，163 100斤34码正好。推荐入手！"},
+        {"timee":"2018-04-10","color":"颜色分类:如图","type":"尺码:34"},
+        {"more":"查看更多评价"}
+      ],
+      "logos":[
+        {
+          "logo": "//img.alicdn.com/imgextra/i1/2616970884/TB2RdcVef5TBuNjSspcXXbnGFXa-2616970884.jpg_120x120Q50s50.jpg",
+          "title": "苏宁易购官方旗舰店",
+          "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+        }
+      ],
+      "sellers":[
+        {
+          "pic":"//img.alicdn.com/imgextra//f7/34/TB1VvZCJpXXXXXJaXXXwu0bFXXX.png_120x120Q50s50.jpg",
+          "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+          "title": "adidas官方旗舰店"
+        },
+        {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.7"},
+        {
+          "all":"全部商品",
+          "shopping":"进入店铺"
+        }
+      ],
+      "sees":[
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+          "pirce":2599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+          "pirce": 3599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+          "pirce": 2399
+        }
+      ],
+      "bBanner":{
+        "ones":[
+          {
+            "img": "//img.alicdn.com/bao/uploaded/TB1M.9.b3fH8KJjy1zcXXcTzpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+            "title": "跪求高薪工作朝九晚六五险一金有美女陪写代码的工作,周末双休啊啊我去！",
+            "price": "¥199",
+            "lprice": "¥298"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB19vt5dY9YBuNjy0FgXXcxcXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"一名热爱web前端的程序猿骚年",
+            "price":"¥238.8",
+            "lprice":"¥138.8"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1t9nqdxHI8KJjy1zbXXaxdpXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"adidas 阿迪达斯 训练 女子 针织紧身裤 黑 BQ2072",
+            "price":"¥188.8",
+            "lprice":"288.8"
+          }
+        ],
+        "two":[
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i3/56513501/TB2d5H9gDtYBeNjy1XdXXXXyVXa_!!56513501.jpg_640x640q50s150.jpg",
+            "title":"送显示器i5 8400/1060吃鸡游戏组装台式电脑主机绝地求生全套整机",
+            "price":"¥48888",
+            "lprice":"¥69999"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB25c2TaHSYBuNjSspfXXcZCpXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title":"绝地求生i7 7700/GTX1060台式吃鸡电脑主机全套DIY高端游戏组装机",
+            "price":"¥289999",
+            "lprice":"¥4099"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+            "price":"¥3899",
+            "lprice":"¥2899"
+          }
+        ],
+        "three":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+            "price":"¥5999",
+            "lprice":"¥4999"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+            "price":"¥5999",
+            "lprice":"¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+            "price":"¥8999",
+            "lprice":"¥2899"
+          }
+        ],
+        "four":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+            "price":"¥6808",
+            "lprice":"¥5199"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+            "price":"¥5999",
+            "lprice":"¥4299"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+            "price":"¥8999",
+            "lprice":"¥3599"
+          }
+        ]
+      },
+      "detailed":[
+        {"img":"//img.alicdn.com/imgextra/i4/446338500/TB2TPqHcZIrBKNjSZK9XXagoVXa-446338500.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i1/446338500/TB2vXBvlr9YBuNjy0FgXXcxcXXa-446338500.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i1/446338500/TB2nFnac6QnBKNjSZSgXXXHGXXa-446338500.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/446338500/TB2DX.5lh1YBuNjy1zcXXbNcXXa-446338500.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/446338500/TB2RJxilxSYBuNjSspjXXX73VXa-446338500.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/446338500/TB24BEjlkKWBuNjy1zjXXcOypXa-446338500.jpg_720x720Q50s50.jpg"}
+      ]
+    },
+    "Nike":{
+      "id":"five",
+      "subTitle":"正品保障 气垫保护 支持验证",
+      "words":[
+        {"name":"Nike 耐克官方 NIKE TESSEN 男子运动鞋 AA2160"},
+        {"price":"￥549","scholl":"狂欢大促"},
+        {"pricetxt":"价格:","oldPrice":"¥699-899"},
+        {"apptxt": "天猫app￥0.00，快去抢啊啊啊啊啊"},
+        {"tips": "该商品最高可享3期分期免息"},
+        {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
+        {
+          "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"全天猫实物商品通用"
+        },
+        {
+          "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"领取优惠券"
+        },
+        {
+          "jf":"积分",
+          "jftxt": "购买可得259积分",
+          "dot":"•••"
+        },
+        {
+          "bz":"正品保证",
+          "fast":"·极速退款",
+          "seven":"·七天退换",
+          "dot":"•••"
+        },
+        {
+          "selector":"请选择颜色分类/套餐",
+          "dot":"•••"
+        },
+        {
+          "product":"产品参数",
+          "dot":"•••"
+        }
+      ],
+      "Banner":[
+        {"pic":"//img.alicdn.com/imgextra/i4/TB1YjM.a9tYBeNjSspkYXHU8VXa_M2.SS2_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i4/890482188/TB2dplUbbSYBuNjSspfXXcZCpXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i2/446338500/TB2TBs9lk9WBuNjSspeXXaz5VXa_!!446338500.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i4/890482188/TB294VJbXGWBuNjy0FbXXb4sXXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i3/890482188/TB2PuhKbkOWBuNjSsppXXXPgpXa_!!890482188.jpg_720x720Q50s50.jpg"}
+      ],
+      "area": "上海",
+      "receive":[
+        {
+          "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "text":"全天猫实物商品通用",
+          "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "txt": "领取优惠券"
+        }
+      ],
+      "sever":[
+        {
+          "name1":"正品保证",
+          "name2":"极速退款",
+          "name3":"七天退货"
+        }
+      ],
+      "skuList": [
+        {"color":"001黑冷/灰/白", "type": "38.5","price": 549,"stock": 1225,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1_3mRXP7nBKNjSZLeBM2xCFXa_042233.jpg_200x200Q50s50.jpg"},
+        {"color":"001黑冷/灰/白", "type": "39","price": 549,"stock": 1225,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1_3mRXP7nBKNjSZLeBM2xCFXa_042233.jpg_200x200Q50s50.jpg"},
+        {"color":"001黑冷/灰/白", "type": "40","price": 549,"stock": 3351,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1_3mRXP7nBKNjSZLeBM2xCFXa_042233.jpg_200x200Q50s50.jpg"},
+        {"color":"001黑冷/灰/白", "type": "43","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1_3mRXP7nBKNjSZLeBM2xCFXa_042233.jpg_200x200Q50s50.jpg"},
+        {"color":"002狼灰/黑/白", "type": "38.5","price": 549,"stock": 888,"img":"//gw.alicdn.com/bao/uploaded/i4/TB1t41RXP7nBKNjSZLeFubxCFXa_042421.jpg_200x200Q50s50.jpg"},
+        {"color":"002狼灰/黑/白", "type": "39","price": 549,"stock": 666,"img":"//gw.alicdn.com/bao/uploaded/i4/TB1t41RXP7nBKNjSZLeFubxCFXa_042421.jpg_200x200Q50s50.jpg"},
+        {"color":"002狼灰/黑/白", "type": "40","price": 549,"stock": 333,"img":"//gw.alicdn.com/bao/uploaded/i4/TB1t41RXP7nBKNjSZLeFubxCFXa_042421.jpg_200x200Q50s50.jpg"},
+        {"color":"002狼灰/黑/白", "type": "43","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i4/TB1t41RXP7nBKNjSZLeFubxCFXa_042421.jpg_200x200Q50s50.jpg"},
+        {"color":"004黑/哈瓦那红/白", "type": "38.5","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1CaqSeNSYBuNjSsphb6zGvVXa_054057.jpg_200x200Q50s50.jpg"},
+        {"color":"004黑/哈瓦那红/白", "type": "39","price": 549,"stock": 666,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1CaqSeNSYBuNjSsphb6zGvVXa_054057.jpg_200x200Q50s50.jpg"},
+        {"color":"004黑/哈瓦那红/白", "type": "40","price": 549,"stock": 333,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1CaqSeNSYBuNjSsphb6zGvVXa_054057.jpg_200x200Q50s50.jpg"},
+        {"color":"004黑/哈瓦那红/白", "type": "43","price": 0,"stock": 0,"img":"//gw.alicdn.com/bao/uploaded/i7/TB1CaqSeNSYBuNjSsphb6zGvVXa_054057.jpg_200x200Q50s50.jpg"}
+      ],
+      "skuInfo":{
+        "price":"¥549",
+        "stock":0,
+        "Select":"请选择",
+        "img":"//gw.alicdn.com/bao/uploaded/i7/TB1_3mRXP7nBKNjSZLeBM2xCFXa_042233.jpg_200x200Q50s50.jpg",
+        "mainTitle":"颜色分类",
+        "subTitle":"鞋码",
+        "tiTle": "颜色分类",
+        "sTitle": "鞋码",
+        "installThree": 1799,
+        "installSix": 888.8,
+        "installTwelve": 666.6
+      },
+      "selects":{
+        "type":{
+          "grays":{
+            "color":"银灰色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "black":{
+            "color":"黑色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "gray":{
+            "color":"银色",
+            "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2899",
+                "stock":"46"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3199",
+                "stock":"32"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥3399",
+                "stock":"26"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3739",
+                "stock":"27"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3599",
+                "stock":"26"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3939",
+                "stock":"28"
+              }
+            }
+          }
+        }
+      },
+      "moreRating":{
+        "raTings":[
+          {
+            "name":  "h***3",
+            "text": "鞋子挺不错的，轻便透气，就是买大了点，但是很舒服，鞋底有一股异味，还能接受，挺喜欢的",
+            "zptitle":"30天后追评",
+            "zp":"越想越生气，发了双残次品，简直是不负责任的表现，店大欺客",
+            "time": "2018-04-05",
+            "color": "颜色分类:001/黑/冷灰/白",
+            "type":"鞋码:43.5",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i4/0/TB22g87knJYBeNjy1zeXXahzVXa_!!0-rate.jpg",
+            "pic2":"//img.alicdn.com/bao/uploaded/i3/0/TB224y_jN1YBuNjy1zcXXbNcXXa_!!0-rate.jpg",
+            "pic3":"//img.alicdn.com/bao/uploaded/i4/0/TB2IWHijH1YBuNjSszhXXcUsFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "L***2",
+            "text": "侧面挺好看的，透气性也可以，不过是测现在（20左右）走一段时间会热，我本身是有点汗脚的，篮球鞋穿45码的，这款44.5最好，我脚宽！",
+            "zptitle":"1天后追评",
+            "zp":"穿着很舒服很喜欢谢谢了",
+            "time": "2018-04-05",
+            "type":"鞋码:40",
+            "color": "颜色分类:001/黑/冷灰/白",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB21P7ngWSWBuNjSsrbXXa0mVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "abb***2",
+            "text": "负分差评，右脚鞋脚后跟明显比左脚硬很多，穿的第一天就磨出水泡。咨询客服换一双，弄死不给换，非要我穿高邦袜。我都特么告诉你这只鞋右脚后跟很硬了，干脆劳资把裤腿塞进鞋里算球。负分，看官绕道。",
+            "zptitle":"10天后追评",
+            "zp":"总体来说还不错穿起来很舒服",
+            "time": "2018-03-05",
+            "type":"鞋码:41",
+            "color": "颜色分类:001/黑/冷灰/白",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i1/0/TB2R0JakH1YBuNjSszeXXablFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "吉*****0",
+            "text": "挺好的，挺便宜～是正品，有点薄，值得购买，活动时120购买的，本人身高167体重118，购买的38码，提供给各位小仙女参考",
+            "time": "2018-03-13",
+            "type": "38",
+            "raType": 1,
+            "havepic": 1,
+            "color": "颜色分类：001黑/冷灰/白",
+            "bq":"官方标配",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2RfnscRjTBKNjSZFwXXcG4XXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "t***5",
+            "text": "服务挺好的,同学都建议买的联想的牌子，果然没错，电脑价格非常便宜。流畅度很好，手感也很好。我只是有点懵，为什么鼠标是在左边的，只能把线子伸到右边使用，但是整体非常好，性价比挺高",
+            "time": "2018-03-13",
+            "type": "套餐三",
+            "raType": 2,
+            "havepic": 1,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2Kb2TdaSWBuNjSsrbXXa0mVXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2x.Acdh9YBuNjy0FfXXXIsVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "gg***5",
+            "text": "用了两周才来评价，第一次买电脑，服务态度很好很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "raType": 2,
+            "havepic": 1,
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "C***5",
+            "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 0,
+            "type": "官方标配",
+            "color": "银灰色"
+          },
+          {
+            "name":  "d***5",
+            "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+            "time": "2018-03-08",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "y***5",
+            "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+            "time": "2018-03-13",
+            "raType": 2,
+            "type": "官方标配",
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "a***5",
+            "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "l***5",
+            "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+            "time": "2018-01-18",
+            "type": "套餐四",
+            "color": "银色",
+            "raType": 4,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "qq***5",
+            "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-28",
+            "type": "套餐四",
+            "color": "黑色",
+            "raType": 4,
+            "havepic": 0
+          },
+          {
+            "name":  "cc***5",
+            "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 4,
+            "havepic": 0
+          }
+        ],
+        "title":[
+          {"name":"全部","count": 0,"commet":[],"active":true},
+          {"name":"追评","count": 0,"commet":[],"active":false},
+          {"name":"有图","count": 0,"commet":[],"active":false},
+          {"name":"正品","count": 0,"commet":[],"active":false},
+          {"name":"穿着效果不错","count":0,"commet":[],"active":false},
+          {"name":"质量很好","count":0,"commet":[],"active":false},
+          {"name":"鞋子不错","count":0,"commet":[],"active":false}
+        ]
+      },
+      "comment":[
+        {"title":"商品评价(1203)"},
+        {"sever":"穿着效果不错(170)","fast":"鞋子不错(76)","bx":"物流快(55)","bz":"包装挺好(50)","zp":"正品(45)","see":"质量不错(66)"},
+        {
+          "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vFkSPFHuXH*evF8LPmHSXmvSM0ZhMG9HOmHLvmMeMmHYPm7HvHlHMCQ0MGIGMmgy&width=70&height=70&type=sns",
+          "name": "i***毛",
+          "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+        },
+        {"text":"鞋子挺不错的，轻便透气，就是买大了点，但是很舒服，鞋底有一股异味，还能接受，挺喜欢的"},
+        {"timee":"2018-04-10","color":"颜色分类:001/灰/白","type":"尺码:42"},
+        {"more":"查看更多评价"}
+      ],
+      "logos":[
+        {
+          "logo": "//img.alicdn.com/imgextra//54/e6/TB1KtowOFXXXXbOaXXXSutbFXXX.jpg_120x120Q50s50.jpg",
+          "title": "NIKE官方旗舰店",
+          "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+        }
+      ],
+      "sellers":[
+        {
+          "pic":"//img.alicdn.com/imgextra//54/e6/TB1KtowOFXXXXbOaXXXSutbFXXX.jpg_120x120Q50s50.jpg",
+          "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+          "title": "Nike官方旗舰店"
+        },
+        {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.7"},
+        {
+          "all":"全部商品",
+          "shopping":"进入店铺"
+        }
+      ],
+      "sees":[
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+          "pirce":2599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+          "pirce": 3599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+          "pirce": 2399
+        }
+      ],
+      "bBanner":{
+        "ones":[
+          {
+            "img": "//img.alicdn.com/bao/uploaded/TB1GXnCXH1YBuNjSszhXXcUsFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title": "跪求高薪工作朝九晚六五险一金有美女陪写代码的工作,周末双休啊啊我去！",
+            "price": "¥499",
+            "lprice": "¥598"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1tSiJbljTBKNjSZFuXXb0HFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"一名热爱web前端的程序猿骚年",
+            "price":"¥438.8",
+            "lprice":"¥538.8"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1y7ELXuGSBuNjSspbXXciipXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Nike 耐克官方 NIKE TESSEN 女子运动鞋 AA2172",
+            "price":"¥388.8",
+            "lprice":"588.8"
+          }
+        ],
+        "two":[
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i3/56513501/TB2d5H9gDtYBeNjy1XdXXXXyVXa_!!56513501.jpg_640x640q50s150.jpg",
+            "title":"送显示器i5 8400/1060吃鸡游戏组装台式电脑主机绝地求生全套整机",
+            "price":"¥48888",
+            "lprice":"¥69999"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB25c2TaHSYBuNjSspfXXcZCpXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title":"绝地求生i7 7700/GTX1060台式吃鸡电脑主机全套DIY高端游戏组装机",
+            "price":"¥289999",
+            "lprice":"¥4099"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+            "price":"¥3899",
+            "lprice":"¥2899"
+          }
+        ],
+        "three":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+            "price":"¥5999",
+            "lprice":"¥4999"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+            "price":"¥5999",
+            "lprice":"¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+            "price":"¥8999",
+            "lprice":"¥2899"
+          }
+        ],
+        "four":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+            "price":"¥6808",
+            "lprice":"¥5199"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+            "price":"¥5999",
+            "lprice":"¥4299"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+            "price":"¥8999",
+            "lprice":"¥3599"
+          }
+        ]
+      },
+      "detailed":[
+        {"img":"//img.alicdn.com/imgextra/i3/890482188/TB2y1AudYuWBuNjSszgXXb8jVXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i4/890482188/TB2ZeY7XNuTBuNkHFNRXXc9qpXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i1/890482188/TB2ZPPkaVmWBuNjSspdXXbugXXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i4/890482188/TB2OaryaY1YBuNjSszhXXcUsFXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/890482188/TB24eyZXSYTBKNjSZKbXXXJ8pXa_!!890482188.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/890482188/TB2MpVIdr5K.eBjy0FfXXbApVXa_!!890482188.png_720x720Q50s50.jpg"}
+      ]
+    },
+    "fenyuan":{
+      "id":"six",
+      "subTitle":"常温大芋圆，Q糯美味，直径1.2CM",
+      "words":[
+        {"name":"真味珍 芋圆 鲜芋仙手工大芋圆组合原料奶茶芋圆甜品混合装汤圆"},
+        {"price":"￥19.8","scholl":"满减促销"},
+        {"pricetxt":"价格:","oldPrice":"28"},
+        {"apptxt": "天猫app￥0.00，快去抢啊啊啊啊啊"},
+        {"tips": "该商品最高可享3期分期免息"},
+        {"express":"快递:0.00","seller":"月销售量:1790件","area":"广东深圳"},
+        {
+          "img":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"全天猫实物商品通用"
+        },
+        {
+          "img":"//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg",
+          "goodtxt":"领取优惠券"
+        },
+        {
+          "jf":"积分",
+          "jftxt": "购买可得259积分",
+          "dot":"•••"
+        },
+        {
+          "bz":"正品保证",
+          "fast":"·极速退款",
+          "seven":"·七天退换",
+          "dot":"•••"
+        },
+        {
+          "selector":"请选择颜色分类/套餐",
+          "dot":"•••"
+        },
+        {
+          "product":"产品参数",
+          "dot":"•••"
+        }
+      ],
+      "Banner":[
+        {"pic":"//img.alicdn.com/imgextra/i2/2932159187/TB1xbdMe8fM8KJjSZPiXXXdspXa_!!0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i4/2932159187/TB2SsFgXPgy_uJjSZSyXXbqvVXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i4/2932159187/TB2v7YhX.o09KJjSZFDXXb9npXa_!!2932159187.png_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i4/2932159187/TB23xyUb26H8KJjSspmXXb2WXXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"pic":"//img.alicdn.com/imgextra/i3/2932159187/TB2Re4hXQfb_uJkHFrdXXX2IVXa_!!2932159187.jpg_720x720Q50s50.jpg"}
+      ],
+      "area": "上海",
+      "receive":[
+        {
+          "tianmao":"//img.alicdn.com/tfs/TB1l54RRXXXXXabXpXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "text":"全天猫实物商品通用",
+          "cheap": "//img.alicdn.com/tfs/TB1XjtERXXXXXbPXFXXXXXXXXXX-180-36.png_240x5000Q50s50.jpg_.webp",
+          "txt": "领取优惠券"
+        }
+      ],
+      "sever":[
+        {
+          "name1":"正品保证",
+          "name2":"极速退款",
+          "name3":"七天退货"
+        }
+      ],
+      "selects":{
+        "type":{
+          "grays":{
+            "color":"银灰色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB2OQjccpuWBuNjSszbXXcS7FXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "black":{
+            "color":"黑色",
+            "img":"//gw.alicdn.com/bao/uploaded/i1/3547214471/TB284e1cAKWBuNjy1zjXXcOypXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2699",
+                "stock":"40"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3039",
+                "stock":"27"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥2999",
+                "stock":"21"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3339",
+                "stock":"22"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3299",
+                "stock":"22"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3639",
+                "stock":"22"
+              }
+            }
+          },
+          "gray":{
+            "color":"银色",
+            "img":"//gw.alicdn.com/bao/uploaded/i4/3547214471/TB2mdvecv5TBuNjSspcXXbnGFXa_!!3547214471.jpg_200x200Q50s50.jpg",
+            "type":{
+              "standard":{
+                "text":"官方标配",
+                "price":"¥2899",
+                "stock":"46"
+              },
+              "one":{
+                "text":"套餐一",
+                "price":"¥3199",
+                "stock":"32"
+              },
+              "two":{
+                "text":"套餐二",
+                "price":"¥3399",
+                "stock":"26"
+              },
+              "three":{
+                "text":"套餐三",
+                "price":"¥3739",
+                "stock":"27"
+              },
+              "four":{
+                "text":"套餐四",
+                "price":"¥3599",
+                "stock":"26"
+              },
+              "five":{
+                "text":"套餐五",
+                "price":"¥3939",
+                "stock":"28"
+              }
+            }
+          }
+        }
+      },
+      "moreRating":{
+        "raTings":[
+          {
+            "name":  "q***5",
+            "text": "五彩芋圆好看好吃，搭配波霸，珍珠更是绝配，味道杠杠滴。",
+            "zptitle":"30天后追评",
+            "zp":"是我想要的那种味道，非常Q弹，",
+            "time": "2018-03-05",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i2/0/TB2VFi5fTJYBeNjy1zeXXahzVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "L***2",
+            "text": "在日本留学！特别喜欢喝奶茶 在国内几乎是每天来一杯的 但这个鬼地方奶茶又少又贵又难喝 就是喜欢国内奶茶那个味儿 自从发现你们家以后就买的停不下来 还有！",
+            "zptitle":"1天后追评",
+            "zp":"你们家的奶茶加你们家的芋圆贼好吃",
+            "time": "2018-03-05",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i2/0/TB2gUVmi1uSBuNjy1XcXXcYjFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "qqq***2",
+            "text": "发货挺快的，芋圆很好吃，宝宝喜欢，会回购",
+            "zptitle":"10天后追评",
+            "zp":"挺好吃,，自制芋圆甜点，比外边店里卖的便宜太多了，很划算",
+            "time": "2018-03-05",
+            "raType": 5,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB2c323iKuSBuNjSsplXXbe8pXa_!!0-rate.jpg",
+            "pic2":"//img.alicdn.com/bao/uploaded/i1/0/TB2uxs4iGmWBuNjy1XaXXXCbXXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "QQ895*****0",
+            "text": "拿到就煮了，很好吃哈哈哈,，很有弹性QQ的，颜色也很好看的，一煮就很容易熟了啦啦啦啦，吃完还会买的呢",
+            "time": "2018-03-13",
+            "raType": 1,
+            "havepic": 1,
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2mgcvgSBYBeNjy0FeXXbnmFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "呜呜***55566",
+            "text": "在办公室弄来吃很方便，不过好像加热后一冻就变特硬，不知道能不能做冷甜品",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2ki_DgGmWBuNjy1XaXXXCbXXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "gg***5",
+            "text": "真正的芋圆是用芋头，紫薯，地瓜等原料跟木薯粉，并不是这个粉那个粉跟淀粉，",
+            "raType": 2,
+            "havepic": 1,
+            "time": "2017-02-18",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2RAKKg1ySBuNjy1zdXXXPxFXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "C***5",
+            "text": "服务很好我很满意 没啥问题 性价比很高 颜色偏灰银色 要是浅银就好了 不过比黑色好看 个人喜好",
+            "time": "2018-03-13",
+            "raType": 2,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i1/0/TB2hWdJchGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "作为一个中文系学生  这台电脑够用了  开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 0,
+            "type": "官方标配",
+            "color": "银灰色"
+          },
+          {
+            "name":  "d***5",
+            "text": "宝贝收到，特意用了几天才来评价，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "raType": 1,
+            "havepic": 1,
+            "type": "官方标配",
+            "color": "银灰色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i4/0/TB2BDvMcYSYBuNjSspiXXXNzpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "a***5",
+            "text": "服务态度好,包装完好，到货速度快！本人是买来办公用的,屏幕效果好",
+            "time": "2018-03-08",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "黑色",
+            "pic1": "//img.alicdn.com/bao/uploaded/i3/0/TB2xf13XH3nBKNjSZFMXXaUSFXa_!!0-rate.jpg",
+            "pic2": "//img.alicdn.com/bao/uploaded/i4/0/TB2gxvGa_tYBeNjy1XdXXXXyVXa_!!0-rate.jpg",
+            "pic3": "//img.alicdn.com/bao/uploaded/i2/0/TB2U9NXdER1BeNjy0FmXXb0wVXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "y***5",
+            "text": "快递超好，收到打开网页不到八秒钟运转速度快，",
+            "time": "2018-03-13",
+            "raType": 2,
+            "type": "官方标配",
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "a***5",
+            "text": "包装很好，很精美 开机也挺快  也不卡 制作了PPT之后特意来评价  使用感觉还是挺好的",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "raType": 3,
+            "color": "银灰色",
+            "havepic": 0
+          },
+          {
+            "name":  "l***5",
+            "text": "宝贝收到，包装很好很漂亮，总体感觉还可以，开机，关机特别快，上网也快，屏幕尺寸够大，满意",
+            "time": "2018-03-18",
+            "type": "官方标配",
+            "color": "银灰色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "用了两周才来评价，第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 3,
+            "havepic": 0
+          },
+          {
+            "name":  "pp***5",
+            "text": "方便出差携带，开机蛮快的，我平时要剪辑视频做图片，偶尔看看电影，也没卡，然后自己配了鼠标，家里第一台台式电脑也是联想的，现在还在使用中！",
+            "time": "2018-01-18",
+            "type": "套餐四",
+            "color": "银色",
+            "raType": 4,
+            "havepic": 1,
+            "pic1":"//img.alicdn.com/bao/uploaded/i3/0/TB28raRhNGYBuNjy0FnXXX5lpXa_!!0-rate.jpg"
+          },
+          {
+            "name":  "qq***5",
+            "text": "用了两周才来评价，玩游戏很流畅,第一次买电脑，很满意，电脑现在依然很流畅，外观精美，很喜欢。",
+            "time": "2018-03-28",
+            "type": "套餐四",
+            "color": "黑色",
+            "raType": 4,
+            "havepic": 0
+          },
+          {
+            "name":  "cc***5",
+            "text": "携带也还方便,是想要的款式，普通办公用，运行速度不错。值得拥有。价钱非常合理，性价比高",
+            "time": "2018-03-18",
+            "type": "套餐四",
+            "color": "白色",
+            "raType": 4,
+            "havepic": 0
+          }
+        ],
+        "title":[
+          {"name":"全部","count": 0,"commet":[],"active":true},
+          {"name":"追评","count": 0,"commet":[],"active":false},
+          {"name":"有图","count": 0,"commet":[],"active":false},
+          {"name":"味道好","count": 0,"commet":[],"active":false},
+          {"name":"快递不错","count":0,"commet":[],"active":false},
+          {"name":"软硬合适","count":0,"commet":[],"active":false},
+          {"name":"服务态度好","count":0,"commet":[],"active":false}
+        ]
+      },
+      "skuList": [
+        {"color":"三色混合", "type": "500g(约30个)","price": 19.9,"stock": 1225,"img":"//img.alicdn.com/imgextra/i2/2932159187/TB1xbdMe8fM8KJjSZPiXXXdspXa_!!0-item_pic.jpg_720x720Q50s50.jpg"},
+        {"color":"三色混合", "type": "1000g(约60个)","price": 25.9,"stock": 1665,"img":"//img.alicdn.com/imgextra/i2/2932159187/TB1xbdMe8fM8KJjSZPiXXXdspXa_!!0-item_pic.jpg_720x720Q50s50.jpg"}
+      ],
+      "skuInfo":{
+        "price":"¥549",
+        "stock":0,
+        "Select":"请选择",
+        "img":"//img.alicdn.com/imgextra/i2/2932159187/TB1xbdMe8fM8KJjSZPiXXXdspXa_!!0-item_pic.jpg_720x720Q50s50.jpg",
+        "mainTitle":"颜色分类",
+        "subTitle":"含量",
+        "tiTle": "颜色分类",
+        "sTitle": "含量",
+        "installThree": 1799,
+        "installSix": 888.8,
+        "installTwelve": 666.6
+      },
+      "comment":[
+        {"title":"商品评价(16737)"},
+        {"sever":"口味不错(170)","fast":"嚼劲好(76)","bx":"很便宜(55)","bz":"味道一般(50)","zp":"快递不错(45)","see":"质量不错(66)"},
+        {
+          "img":"//wwc.alicdn.com/avatar/getAvatar.do?userIdStr=vGNuOHcWv88YXF-HPmvbMGQbvFcbPGl-MFNSMFkyvGcyMk7-MmvGXFNLPG*zv07I&width=70&height=70&type=sns",
+          "name": "6***毛",
+          "svip":"//img.alicdn.com/tfs/TB1UqAjeOqAXuNjy1XdXXaYcVXa-130-42.png_80x80Q90s50.jpg"
+        },
+        {"text":"放了点蜂蜜和纯牛奶 非常的好吃 不输外面甜品店的 以后就在家 自己做了"},
+        {"timee":"2018-04-10"},
+        {"more":"查看更多评价"}
+      ],
+      "logos":[
+        {
+          "logo": "//img.alicdn.com/imgextra//54/e6/TB1KtowOFXXXXbOaXXXSutbFXXX.jpg_120x120Q50s50.jpg",
+          "title": "N IKE官方旗舰店",
+          "name":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg_.webp?getAvatar=avatar"
+        }
+      ],
+      "sellers":[
+        {
+          "pic":"//img.alicdn.com/imgextra//27/18/TB1zbzzNVXXXXaiaXXXSutbFXXX.jpg_120x120Q50s50.jpg",
+          "tianm":"//img.alicdn.com/tfs/TB1u5sBnlfH8KJjy1XbXXbLdXXa-198-36.png_120x120Q90s50.jpg",
+          "title": "真味珍食品旗舰店"
+        },
+        {"baby":"宝贝描述", "service":"卖家服务", "express":"物流服务","score":"4.7"},
+        {
+          "all":"全部商品",
+          "shopping":"进入店铺"
+        }
+      ],
+      "sees":[
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1C_LlbkCWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 ideapad 320 15.6英寸轻薄便携商务游戏笔记本电脑",
+          "pirce":2599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1aq.saJknBKNjSZKPXXX6OFXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 IdeaPad -15.6英寸i5七代独显轻薄游戏笔记本电脑鸡",
+          "pirce": 3599
+        },
+        {
+          "pic":"//img.alicdn.com/bao/uploaded/TB1gDIxilHH8KJjy0FbXXcqlpXa_!!0-item_pic.jpg_320x320Q50s50.jpg_.webp",
+          "title":"Lenovo/联想 一体机AIO310轻薄办公游戏家用学生电脑台式主机整套",
+          "pirce": 2399
+        }
+      ],
+      "bBanner":{
+        "ones":[
+          {
+            "img": "//img.alicdn.com/bao/uploaded/TB1RKy1fL2H8KJjy1zkXXXr7pXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title": "跪求高薪工作朝九晚六五险一金有美女陪写代码的工作,周末双休啊啊我去！",
+            "price": "¥13.8",
+            "lprice": "¥18.8"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1U.BabPqhSKJjSspnXXc79XXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"一名热爱web前端的程序猿骚年",
+            "price":"¥20.8",
+            "lprice":"¥28.8"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1UVqUk21TBuNjy0FjXXajyXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"真味珍小芋圆小汤圆甜品混合口味芋圆甜品手工芋圆原料批发500g",
+            "price":"16.8",
+            "lprice":"24.8"
+          }
+        ],
+        "two":[
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i3/56513501/TB2d5H9gDtYBeNjy1XdXXXXyVXa_!!56513501.jpg_640x640q50s150.jpg",
+            "title":"送显示器i5 8400/1060吃鸡游戏组装台式电脑主机绝地求生全套整机",
+            "price":"¥48888",
+            "lprice":"¥69999"
+          },
+          {
+            "img":"//gw.alicdn.com/bao/uploaded/i1/56513501/TB25c2TaHSYBuNjSspfXXcZCpXa_!!56513501.jpg_640x640q50s150.jpg_.webp",
+            "title":"绝地求生i7 7700/GTX1060台式吃鸡电脑主机全套DIY高端游戏组装机",
+            "price":"¥289999",
+            "lprice":"¥4099"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1qT5lfhSYBuNjSsphXXbGvVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 320-I3轻薄便携学生商务笔记本电脑15.6英寸",
+            "price":"¥3899",
+            "lprice":"¥2899"
+          }
+        ],
+        "three":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1lSqfc9tYBeNjSspkXXbU8VXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 小新 --潮7000笔记本电脑I5超薄游戏本锐7000鸡",
+            "price":"¥5999",
+            "lprice":"¥4999"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1oZrYXYuWBuNjSszgXXb8jVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"联想台式机电脑510A-15 七代I3-7100 家用办公游戏全整套小主机",
+            "price":"¥5999",
+            "lprice":"¥2799"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1ByJwf7CWBuNjy0FaXXXUlXXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 IdeaPad 310-15.6英寸商务办公学生游戏笔记本电脑",
+            "price":"¥8999",
+            "lprice":"¥2899"
+          }
+        ],
+        "four":[
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1fShof1ySBuNjy1zdXXXPxFXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 拯救者R720 -15笔记本电脑学生吃鸡游戏本独显2G分期",
+            "price":"¥6808",
+            "lprice":"¥5199"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1T5faeVLM8KJjSZFBXXXJHVXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想电脑一体机AIO520-24高端家用办公游戏独显台式机全套",
+            "price":"¥5999",
+            "lprice":"¥4299"
+          },
+          {
+            "img":"//img.alicdn.com/bao/uploaded/TB1mle3nTnI8KJjSszgXXc8ApXa_!!0-item_pic.jpg_320x320Q50s50.jpg",
+            "title":"Lenovo/联想 一体机AIO 520-22 家用办公游戏台式机整机大屏电脑",
+            "price":"¥8999",
+            "lprice":"¥3599"
+          }
+        ]
+      },
+      "detailed":[
+        {"img":"//img.alicdn.com/imgextra/i3/2932159187/TB24Pw4jpmWBuNjSspdXXbugXXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i4/2932159187/TB21qy6eVHM8KJjSZFwXXcibXXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i3/2932159187/TB2Rc1VfwMPMeJjy1XcXXXpppXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i1/2932159187/TB2v71Pb_TI8KJjSsphXXcFppXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i1/2932159187/TB2y99vaLNNTKJjSspcXXb4KVXa_!!2932159187.jpg_720x720Q50s50.jpg"},
+        {"img":"//img.alicdn.com/imgextra/i2/2932159187/TB2UsZRXf5TBuNjSspmXXaDRVXa_!!2932159187.jpg_720x720Q50s50.jpg"}
+      ]
+    }
+  },
+  "footer":[
+    {
+      "icon":"../../assets/home/home.png",
+      "text":"首页"
+    },
+    {
+      "icon":"../../assets/home/bus.png",
+      "text":"物流"
+    },
+    {
+      "icon":"../../assets/home/shopCart.png",
+      "text":"购物车"
+    },
+    {
+      "icon":"../../assets/home/people.png",
+      "text":"我的淘宝"
+    },
+    {
+      "icon":"../../assets/home/more.png",
+      "text":"更多"
+    }
+  ]
+}
